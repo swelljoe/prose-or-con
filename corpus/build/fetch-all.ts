@@ -13,12 +13,12 @@ import type { Genre, RawItem } from './types';
 // Current values bring the human pool level with the AI pool (~393). For a fresh
 // build from empty, set these to the final per-genre counts (mirror AI_TARGETS).
 const TARGETS = {
-  encyclopedic: 80, // Wikipedia, fixed list → full count
-  news: 38, // Wikinews, random → delta
-  essay: 38, // The Conversation/ProPublica, random → delta
-  travel: 50, // Wikivoyage, fixed list → full count
-  fiction: 45, // Gutenberg, random → delta
-  poetry: 20, // Gutenberg, random → delta
+  encyclopedic: 125, // Wikipedia, fixed list → full count (existing ~79 + ~45 new titles)
+  news: 40, // Wikinews, random → delta
+  essay: 40, // The Conversation/ProPublica, random → delta
+  travel: 82, // Wikivoyage, fixed list → full count (existing ~50 + ~32 new titles)
+  fiction: 42, // Gutenberg, random → delta
+  poetry: 30, // Gutenberg, random → delta
 } as const;
 
 async function main(): Promise<void> {
