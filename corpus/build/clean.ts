@@ -110,6 +110,46 @@ function stripSourceTells(text: string): string {
   return t;
 }
 
+// Native-script blocks used for foreign-name annotations (Greek, Cyrillic,
+// Armenian, Hebrew, Arabic, Devanagari, Thai/Lao, Tibetan, Myanmar, Georgian,
+// Khmer, Tifinagh, Kana, CJK, Hangul). A lead-sentence parenthetical with a run
+// of these — e.g. "Kyōto (京都)" or "(from Greek χάρτης)" — or an unexpanded
+// "Template:Lang-xx" placeholder marks the text as encyclopedic, a source tell.
+const NATIVE =
+  '\\u0370-\\u03FF\\u1F00-\\u1FFF\\u0400-\\u052F\\u0530-\\u058F\\u0590-\\u05FF\\u0600-\\u06FF' +
+  '\\u0750-\\u077F\\u0900-\\u097F\\u0E00-\\u0EFF\\u0F00-\\u0FFF\\u1000-\\u109F' +
+  '\\u10A0-\\u10FF\\u1780-\\u17FF\\u2D30-\\u2D7F\\u3040-\\u30FF\\u3400-\\u9FFF\\uAC00-\\uD7AF';
+// IPA letters/marks that betray a phonetic respelling (schwa, stress marks, etc.).
+const IPA = 'ˈˌːɪɛɔəɒæʊʌɜɐʃʒθðŋ';
+const FOREIGN_PAREN = new RegExp(
+  `\\s*\\([^()]*(?:Template:[A-Za-z-]+|[${NATIVE}]{2,}|[${IPA}])[^()]*\\)`,
+  'g',
+);
+const NATIVE_RUN = new RegExp(`[${NATIVE}]{2,}`, 'g');
+// IPA pronunciation in slashes or brackets, e.g. "/ˈsiːləkænθ/" or "[liʒˈboɐ]".
+const IPA_GUIDE = new RegExp(`\\s*[/\\[][^/\\[\\]\\n]*[${IPA}][^/\\[\\]\\n]*[/\\]](?:\\s*ⓘ)?`, 'g');
+
+/**
+ * Remove foreign-name / etymology / pronunciation annotations — a source tell for
+ * encyclopedic text. Strips native-script runs (2+ chars, so lone symbols like the
+ * µm or β-lactam science units survive), IPA respellings, and unexpanded
+ * "Template:Lang-xx" placeholders. Latin transliterations are left as-is.
+ */
+export function stripForeignAnnotations(text: string): string {
+  return text
+    .replace(FOREIGN_PAREN, '')
+    .replace(/\s*Template:[A-Za-z-]+/g, '')
+    .replace(IPA_GUIDE, '')
+    .replace(NATIVE_RUN, '')
+    .replace(/\s*\(\s*(?:UK|US|U\.K\.|U\.S\.)\s*:?\s*\)/g, '') // "(UK:)" left after IPA strip
+    .replace(/\(\s*[;,]+\s*/g, '(') // "(; X" left by an inner strip → "(X"
+    .replace(/\s*[;,]+\s*\)/g, ')') // "X ,)" → "X)"
+    .replace(/\(\s*\)/g, '') // empty parens left behind
+    .replace(/ +([,.;:)])/g, '$1') // tidy space before punctuation
+    .replace(/\(\s+/g, '(')
+    .replace(/[ \t]{2,}/g, ' ');
+}
+
 /** Join hard-wrapped lines within each paragraph (prose only — not poetry). */
 function unwrapProse(text: string): string {
   return text
@@ -131,6 +171,7 @@ export function clean(text: string, opts: { author: 'human' | 'ai'; poetry: bool
   } else {
     t = stripSourceTells(stripMarkdown(stripChatScaffolding(text)));
   }
+  t = stripForeignAnnotations(t);
   if (!opts.poetry) t = unwrapProse(t);
   return cleanCommon(t);
 }

@@ -2582,6 +2582,16 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "dad6bdd1571e",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "A Captive of the Roman Eagles",
+    "author": "Felix Dahn",
+    "url": "https://www.gutenberg.org/ebooks/32220",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "0871b88b8501",
     "kind": "human",
     "source": "Project Gutenberg",
@@ -2608,6 +2618,16 @@
     "title": "A Ladder of Swords: A Tale of Love, Laughter and Tears",
     "author": "Gilbert Parker",
     "url": "https://www.gutenberg.org/ebooks/41303",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "bec748b69d40",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "A Spirit in Prison",
+    "author": "Robert Hichens",
+    "url": "https://www.gutenberg.org/ebooks/2994",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -2642,12 +2662,32 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
-    "id": "b8f39696869b",
+    "id": "8d51648e82a4",
     "kind": "human",
     "source": "Project Gutenberg",
-    "title": "Ballads of Romance and Chivalry",
-    "author": "Frank Sidgwick",
-    "url": "https://www.gutenberg.org/ebooks/20469",
+    "title": "Birthday Present",
+    "author": "Arnold Marmor",
+    "url": "https://www.gutenberg.org/ebooks/66379",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "c74384c3fc4a",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Courtin' Christina",
+    "author": "J. J. Bell",
+    "url": "https://www.gutenberg.org/ebooks/63806",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "c51b5bbae343",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Crypt-City of the Deathless One",
+    "author": "Henry Kuttner",
+    "url": "https://www.gutenberg.org/ebooks/62713",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -2690,12 +2730,69 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "6527f6f53557",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "English Poets of the Eighteenth Century",
+    "url": "https://www.gutenberg.org/ebooks/10161",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "637c16d60934",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "English Poets of the Eighteenth Century",
+    "url": "https://www.gutenberg.org/ebooks/10161",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "ebab0f276d63",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "Evan Harrington — Volume 6",
     "author": "George Meredith",
     "url": "https://www.gutenberg.org/ebooks/4432",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "591f4cb052a8",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Fore!",
+    "author": "Charles E. Van Loan",
+    "url": "https://www.gutenberg.org/ebooks/36682",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "a1aee2506acb",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Forward, Children!",
+    "url": "https://www.gutenberg.org/ebooks/44717",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "4d324e714245",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Fun o' the Forge: Stories",
+    "author": "Brian O'Higgins",
+    "url": "https://www.gutenberg.org/ebooks/56963",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "92161292085f",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "George Bowring - A Tale Of Cader Idris",
+    "author": "R. D. Blackmore",
+    "url": "https://www.gutenberg.org/ebooks/22317",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -2720,6 +2817,36 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "dac985e0e7c9",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Hanging by a Thread",
+    "author": "Randall Garrett",
+    "url": "https://www.gutenberg.org/ebooks/30308",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "4a683738cb79",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Here are Ladies",
+    "author": "James Stephens",
+    "url": "https://www.gutenberg.org/ebooks/20127",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "5685706f638e",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Here are Ladies",
+    "author": "James Stephens",
+    "url": "https://www.gutenberg.org/ebooks/20127",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "05718d9b4c51",
     "kind": "human",
     "source": "Project Gutenberg",
@@ -2736,6 +2863,16 @@
     "title": "Johnny Ludlow, First Series",
     "author": "Mrs. Henry Wood",
     "url": "https://www.gutenberg.org/ebooks/40915",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "861a9176dd7d",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Kitty of the Roses",
+    "author": "Ralph Henry Barbour",
+    "url": "https://www.gutenberg.org/ebooks/56652",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -2760,6 +2897,16 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "a3cfd497cc07",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Materials and Methods of Fiction",
+    "author": "Clayton Meeker Hamilton",
+    "url": "https://www.gutenberg.org/ebooks/30776",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "2ab39b1ba560",
     "kind": "human",
     "source": "Project Gutenberg",
@@ -2780,12 +2927,42 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "1f17add83f31",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Miss Minerva and William Green Hill",
+    "author": "Frances Boyd Calhoun",
+    "url": "https://www.gutenberg.org/ebooks/5187",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "ad13650b9cc5",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Mutiny",
+    "author": "Larry Offenbecker",
+    "url": "https://www.gutenberg.org/ebooks/63675",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "638a01c61608",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "My Friend Pasquale, and Other Stories",
     "author": "James Selwin Tait",
     "url": "https://www.gutenberg.org/ebooks/49484",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "8ee75a8facbe",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "No Great Magic",
+    "author": "Fritz Leiber",
+    "url": "https://www.gutenberg.org/ebooks/23162",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -2846,12 +3023,120 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
-    "id": "6f3094cff1f3",
+    "id": "05444c8a176d",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Parkhurst Boys, and Other Stories of School Life",
+    "author": "Talbot Baines Reed",
+    "url": "https://www.gutenberg.org/ebooks/21137",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "a2a2652ddac1",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Pursuit",
+    "author": "Lester Del Rey",
+    "url": "https://www.gutenberg.org/ebooks/31587",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "602b161cbc31",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "Rahab",
     "author": "Waldo David Frank",
     "url": "https://www.gutenberg.org/ebooks/73590",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "e1452ab12163",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Rosa Mundi and Other Stories",
+    "author": "Ethel M. Dell",
+    "url": "https://www.gutenberg.org/ebooks/13774",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "1bb25c457f18",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Ruth of the U. S. A.",
+    "author": "Edwin Balmer",
+    "url": "https://www.gutenberg.org/ebooks/68296",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "8bc3b075bbdf",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Shapes and Shadows",
+    "author": "Madison Julius Cawein",
+    "url": "https://www.gutenberg.org/ebooks/33112",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "146ebe74ad1e",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Shapes and Shadows",
+    "author": "Madison Julius Cawein",
+    "url": "https://www.gutenberg.org/ebooks/33112",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "72ec520a3f21",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Songs of a Savoyard",
+    "author": "W. S. Gilbert",
+    "url": "https://www.gutenberg.org/ebooks/934",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "36e015dd7b6f",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Songs of a Savoyard",
+    "author": "W. S. Gilbert",
+    "url": "https://www.gutenberg.org/ebooks/934",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "d7f594e7f541",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Songs of the Glens of Antrim",
+    "url": "https://www.gutenberg.org/ebooks/53075",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "1ee74965016e",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Songs of the Glens of Antrim",
+    "url": "https://www.gutenberg.org/ebooks/53075",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "29388fc4a7ff",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Space-Lane of No-Return",
+    "author": "George A. Whittington",
+    "url": "https://www.gutenberg.org/ebooks/63697",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -2862,6 +3147,16 @@
     "title": "Tales of a Cruel Country",
     "author": "Gerald Cumberland",
     "url": "https://www.gutenberg.org/ebooks/60272",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "a0681867edd1",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The 3rd Party",
+    "author": "Lee B. Holum",
+    "url": "https://www.gutenberg.org/ebooks/59160",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -2886,12 +3181,62 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "3e4b092963f3",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Ambassadors From Venus",
+    "author": "Kendell Foster Crossen",
+    "url": "https://www.gutenberg.org/ebooks/64045",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "486382fb982e",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "The Asses of Balaam",
     "author": "Randall Garrett",
     "url": "https://www.gutenberg.org/ebooks/30583",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "93a64dea1d52",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Beauty Of The Village",
+    "author": "Mary Russell Mitford",
+    "url": "https://www.gutenberg.org/ebooks/22845",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "861f71b3b083",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Bridge of the Gods",
+    "author": "Frederic Homer Balch",
+    "url": "https://www.gutenberg.org/ebooks/28815",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "14768ea9fbed",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Calm Man",
+    "author": "Frank Belknap Long",
+    "url": "https://www.gutenberg.org/ebooks/28583",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "b96930866b18",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Cask",
+    "author": "Freeman Wills Crofts",
+    "url": "https://www.gutenberg.org/ebooks/59854",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -2936,6 +3281,16 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "2f8497856478",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Crock of Gold",
+    "author": "James Stephens",
+    "url": "https://www.gutenberg.org/ebooks/1605",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "dff9852c311b",
     "kind": "human",
     "source": "Project Gutenberg",
@@ -2952,6 +3307,36 @@
     "title": "The devil in a nunnery, and other mediaeval tales",
     "author": "Francis Oscar Mann",
     "url": "https://www.gutenberg.org/ebooks/78528",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "8282ac198747",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Duke's Sweetheart: A Romance",
+    "author": "Richard Dowling",
+    "url": "https://www.gutenberg.org/ebooks/42599",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "2f698ab42e64",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Faa's revenge, and other tales",
+    "author": "John Mackay Wilson",
+    "url": "https://www.gutenberg.org/ebooks/75771",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "8ca3ebb4692f",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Fire and the Sword",
+    "author": "Frank M. Robinson",
+    "url": "https://www.gutenberg.org/ebooks/51170",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -2976,6 +3361,26 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "d87a7a3e9370",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Flying Horseman",
+    "author": "Gustave Aimard",
+    "url": "https://www.gutenberg.org/ebooks/45403",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "cecd2d781e8c",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Garden of Swords",
+    "author": "Max Pemberton",
+    "url": "https://www.gutenberg.org/ebooks/46023",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "abaf62ebdaf2",
     "kind": "human",
     "source": "Project Gutenberg",
@@ -2996,12 +3401,42 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "78eca5e97f5a",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Herd Boy and His Hermit",
+    "author": "Charlotte M. Yonge",
+    "url": "https://www.gutenberg.org/ebooks/5313",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "0e5bd52e9d8c",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "The Hispaniola Plate (1683-1893)",
     "author": "John Bloundelle-Burton",
     "url": "https://www.gutenberg.org/ebooks/52210",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "2bdfef852b2f",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Hoofs of Pegasus",
+    "author": "Letitia Stockett",
+    "url": "https://www.gutenberg.org/ebooks/63262",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "0fed5454de20",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Hoofs of Pegasus",
+    "author": "Letitia Stockett",
+    "url": "https://www.gutenberg.org/ebooks/63262",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -3016,12 +3451,52 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "a813d4bde2e0",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The King's Own",
+    "author": "Frederick Marryat",
+    "url": "https://www.gutenberg.org/ebooks/21550",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "77f13c2f719f",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "The man from Oregon",
     "author": "Mary B. Arbuckle",
     "url": "https://www.gutenberg.org/ebooks/78410",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "f91b9e9604e3",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Man Without a Memory",
+    "author": "Arthur W. Marchmont",
+    "url": "https://www.gutenberg.org/ebooks/35516",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "a5e807084c62",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Master Mystery",
+    "author": "Arthur B. Reeve",
+    "url": "https://www.gutenberg.org/ebooks/16168",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "ad65ac46830a",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Masterfolk",
+    "author": "Haldane Macfall",
+    "url": "https://www.gutenberg.org/ebooks/61754",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -3046,7 +3521,7 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
-    "id": "2fc35fec9208",
+    "id": "3fada858d4c6",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "The murderer",
@@ -3086,12 +3561,62 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "75b0e4cadcfc",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Rubaiyat of Ohow Dryyam",
+    "author": "J. L. Duff",
+    "url": "https://www.gutenberg.org/ebooks/23338",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "bdb0ef3eb234",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Rubaiyat of Ohow Dryyam",
+    "author": "J. L. Duff",
+    "url": "https://www.gutenberg.org/ebooks/23338",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "bb3bcdf80ce3",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Rubaiyat of Omar Khayyam Jr.",
+    "author": "Wallace Irwin",
+    "url": "https://www.gutenberg.org/ebooks/5408",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "8f9312fff087",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Rubaiyat of Omar Khayyam Jr.",
+    "author": "Wallace Irwin",
+    "url": "https://www.gutenberg.org/ebooks/5408",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "4c04aecce302",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "The seventh shot",
     "author": "Herman Landon",
     "url": "https://www.gutenberg.org/ebooks/76659",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "a214e828c9ac",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The story of Fifine",
+    "author": "Bernard Capes",
+    "url": "https://www.gutenberg.org/ebooks/71461",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -3115,12 +3640,62 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "78570b50de31",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Tao Teh King, or the Tao and its Characteristics",
+    "author": "Laozi",
+    "url": "https://www.gutenberg.org/ebooks/216",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "ffae2d41e572",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Tao Teh King, or the Tao and its Characteristics",
+    "author": "Laozi",
+    "url": "https://www.gutenberg.org/ebooks/216",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "72ab49018d39",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "The three wise men",
     "author": "Ernest Haycox",
     "url": "https://www.gutenberg.org/ebooks/78541",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "9fc004bd2447",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Tree of Knowledge: A Novel",
+    "author": "Mrs. Baillie Reynolds",
+    "url": "https://www.gutenberg.org/ebooks/39366",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "080b64884a74",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Victory of Klon",
+    "author": "Wilbur S. Peacock",
+    "url": "https://www.gutenberg.org/ebooks/61943",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "95329906ca29",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Vizier of the Two-Horned Alexander",
+    "author": "Frank R. Stockton",
+    "url": "https://www.gutenberg.org/ebooks/10368",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -3145,12 +3720,31 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
+    "id": "56b72ceb3819",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Thy Rocks and Rills",
+    "author": "Robert E. Gilbert",
+    "url": "https://www.gutenberg.org/ebooks/32878",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
     "id": "967c0a4feef6",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "Toffee haunts a ghost",
     "author": "Henry Farrell",
     "url": "https://www.gutenberg.org/ebooks/71659",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "91bfd1fb7197",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Tom Moore: An Unhistorical Romance",
+    "url": "https://www.gutenberg.org/ebooks/41656",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -3175,12 +3769,32 @@
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
   {
-    "id": "77abf336b442",
+    "id": "df262a300c62",
     "kind": "human",
     "source": "Project Gutenberg",
     "title": "Warrior-Maid of Mars",
     "author": "Alfred Coppel",
     "url": "https://www.gutenberg.org/ebooks/64774",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "f33408e86a1d",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Well, After All--",
+    "author": "Frank Frankfort Moore",
+    "url": "https://www.gutenberg.org/ebooks/51988",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "6f7dec696689",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Wrong Analogy",
+    "author": "Joseph Shallit",
+    "url": "https://www.gutenberg.org/ebooks/59545",
     "license": "Public Domain",
     "licenseUrl": "https://www.gutenberg.org/policy/license.html"
   },
@@ -3215,12 +3829,32 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
   },
   {
+    "id": "1a06aca29a41",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "Besieged Facebook Says New Ad Limits Aren’t Response to Lawsuits",
+    "author": "Ariana Tobin, Jeremy B. Merrill",
+    "url": "https://www.propublica.org/article/facebook-says-new-ad-limits-arent-response-to-lawsuits",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
     "id": "2f5ccafdafae",
     "kind": "human",
     "source": "ProPublica",
     "title": "Did Rudy Giuliani Nullify His Attorney-Client Protections?",
     "author": "Ian MacDougall",
     "url": "https://www.propublica.org/article/did-rudy-giuliani-nullify-his-attorney-client-protections",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "60c1bdd3cfa2",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "EMS Crews Brought Patients to the Hospital With Misplaced Breathing Tubes. None of Them Survived.",
+    "author": "Lynn Arditi",
+    "url": "https://www.propublica.org/article/ems-crews-brought-patients-to-the-hospital-with-misplaced-breathing-tubes-none-of-them-survived",
     "license": "CC BY-NC-ND 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
   },
@@ -3305,12 +3939,42 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
   },
   {
+    "id": "fb0491079b2f",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "Records Show Trump’s Border Wall Is Costing Taxpayers Billions More Than Initial Contracts",
+    "author": "Perla Trevizo, Jeremy Schwartz",
+    "url": "https://www.propublica.org/article/records-show-trumps-border-wall-is-costing-taxpayers-billions-more-than-initial-contracts",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
     "id": "f3b91edcb187",
     "kind": "human",
     "source": "ProPublica",
     "title": "Sacklers Who Disavow OxyContin May Have Benefited From It",
     "author": "David Armstrong",
     "url": "https://www.propublica.org/article/sacklers-who-disavow-oxycontin-may-have-benefited-from-it",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "2fbdc9ced83e",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "They Loan You Money. Then They Get a Warrant for Your Arrest.",
+    "author": "Anjali Tsui",
+    "url": "https://www.propublica.org/article/they-loan-you-money-then-they-get-a-warrant-for-your-arrest",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "3c5947236dc3",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "We Have Some Follow-Ups for Facebook — And We Want Your Help",
+    "author": "Ariana Tobin, Jeremy B. Merrill, Lucas Waldron, Terry Parris Jr.",
+    "url": "https://www.propublica.org/article/facebook-mark-zuckerberg-testimony-capitol-hill-how-you-can-help",
     "license": "CC BY-NC-ND 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
   },
@@ -3458,20 +4122,6 @@
     "model": "qwen/qwen-2.5-72b-instruct"
   },
   {
-    "id": "3250bb7d7e69",
-    "kind": "ai",
-    "source": "Qwen 2.5 72B",
-    "license": "AI-generated",
-    "model": "qwen/qwen-2.5-72b-instruct"
-  },
-  {
-    "id": "8571ec588704",
-    "kind": "ai",
-    "source": "Qwen 2.5 72B",
-    "license": "AI-generated",
-    "model": "qwen/qwen-2.5-72b-instruct"
-  },
-  {
     "id": "b7e7d981acec",
     "kind": "ai",
     "source": "Qwen 2.5 72B",
@@ -3514,12 +4164,52 @@
     "model": "qwen/qwen-2.5-72b-instruct"
   },
   {
+    "id": "0ab6073e4592",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "5 reasons students should consider taking a gap year now",
+    "author": "Robert S Clagett",
+    "url": "https://theconversation.com/5-reasons-students-should-consider-taking-a-gap-year-now-138712",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
     "id": "2a44f70e1a1e",
     "kind": "human",
     "source": "The Conversation",
     "title": "Anti-vaxxers are weaponising the vaccine hesitancy of Black communities",
     "author": "Winston Morgan",
     "url": "https://theconversation.com/anti-vaxxers-are-weaponising-the-vaccine-hesitancy-of-black-communities-153836",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "a1b68a5e0eaf",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Biloxi’s 15-year recovery from Hurricane Katrina offers lessons for other coastal cities",
+    "author": "Jennifer Trivedi",
+    "url": "https://theconversation.com/biloxis-15-year-recovery-from-hurricane-katrina-offers-lessons-for-other-coastal-cities-144172",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "3dead78b8636",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Black biomedical scientists still lag in research funding – here’s why that matters to all Americans",
+    "author": "Omolola Eniola-Adefeso",
+    "url": "https://theconversation.com/black-biomedical-scientists-still-lag-in-research-funding-heres-why-that-matters-to-all-americans-154260",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "44bffb484c4b",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Can people spread the coronavirus if they don’t have symptoms? 5 questions answered about asymptomatic COVID-19",
+    "author": "Monica Gandhi",
+    "url": "https://theconversation.com/can-people-spread-the-coronavirus-if-they-dont-have-symptoms-5-questions-answered-about-asymptomatic-covid-19-140531",
     "license": "CC BY-ND 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
@@ -3534,12 +4224,42 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
   {
+    "id": "4ce5848f1cb5",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "COVID-19: As offices reopen, here’s what to expect if you’re worried about getting sick on the job",
+    "author": "Elizabeth C. Tippett",
+    "url": "https://theconversation.com/covid-19-as-offices-reopen-heres-what-to-expect-if-youre-worried-about-getting-sick-on-the-job-142154",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
     "id": "0c58168a816c",
     "kind": "human",
     "source": "The Conversation",
     "title": "COVID: poorest countries should have stopped short of full workplace closures – economist",
     "author": "Mehdi Shiva",
     "url": "https://theconversation.com/covid-poorest-countries-should-have-stopped-short-of-full-workplace-closures-economist-160836",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "c070eb57dff8",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "COVID: should you ditch your mask once restrictions are lifted? A philosopher’s view",
+    "author": "Stephen John",
+    "url": "https://theconversation.com/covid-should-you-ditch-your-mask-once-restrictions-are-lifted-a-philosophers-view-164367",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "7a05e1ca832f",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Cuba’s race to make its own coronavirus vaccine – podcast",
+    "author": "Daniel Merino, Gemma Ware",
+    "url": "https://theconversation.com/cubas-race-to-make-its-own-coronavirus-vaccine-podcast-160324",
     "license": "CC BY-ND 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
@@ -3554,12 +4274,32 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
   {
+    "id": "bcc3c42b6ba1",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "F1: is the race now on for a new owner?",
+    "author": "Bruce Grant-Braham",
+    "url": "https://theconversation.com/f1-is-the-race-now-on-for-a-new-owner-173605",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
     "id": "d9043d8fa0f7",
     "kind": "human",
     "source": "The Conversation",
     "title": "Fast food is comforting, but in low-income areas it crowds out fresher options",
     "author": "Catherine Keske",
     "url": "https://theconversation.com/fast-food-is-comforting-but-in-low-income-areas-it-crowds-out-fresher-options-136227",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "b8de07fbd9d3",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Fixing America’s crumbling physical – and human – infrastructure: 3 essential reads",
+    "author": "Bryan Keogh",
+    "url": "https://theconversation.com/fixing-americas-crumbling-physical-and-human-infrastructure-3-essential-reads-163615",
     "license": "CC BY-ND 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
@@ -3584,12 +4324,32 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
   {
+    "id": "3c37242ef2bc",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "How using music to parent can liven up everyday tasks, build family bonds",
+    "author": "Lisa Huisman Koops",
+    "url": "https://theconversation.com/how-using-music-to-parent-can-liven-up-everyday-tasks-build-family-bonds-131182",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
     "id": "ba1943956120",
     "kind": "human",
     "source": "The Conversation",
     "title": "I’m an OB/GYN who attended thousands of deliveries before wondering why Americans give birth in bed",
     "author": "Neel Shah",
     "url": "https://theconversation.com/im-an-ob-gyn-who-attended-thousands-of-deliveries-before-wondering-why-americans-give-birth-in-bed-127894",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "ea46c39888f8",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Lockdown, quarantine and self-isolation: how different COVID restrictions affect our mental health",
+    "author": "Tom Heffernan",
+    "url": "https://theconversation.com/lockdown-quarantine-and-self-isolation-how-different-covid-restrictions-affect-our-mental-health-153595",
     "license": "CC BY-ND 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
@@ -3604,12 +4364,52 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
   {
+    "id": "ad36471e76e3",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "More penises are appearing on TV and in film – but why are nearly all of them prosthetic?",
+    "author": "Peter Lehman",
+    "url": "https://theconversation.com/more-penises-are-appearing-on-tv-and-in-film-but-why-are-nearly-all-of-them-prosthetic-146906",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
     "id": "2f9b023dcc99",
     "kind": "human",
     "source": "The Conversation",
     "title": "New antidepressants can lift depression and suicidal thoughts fast, but don’t expect magic cures",
     "author": "Nicholas Mischel",
     "url": "https://theconversation.com/new-antidepressants-can-lift-depression-and-suicidal-thoughts-fast-but-dont-expect-magic-cures-148721",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "f67570b6bbdf",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Novavax COVID vaccine is nearing approval – but what impact will it have?",
+    "author": "Michael Head",
+    "url": "https://theconversation.com/novavax-covid-vaccine-is-nearing-approval-but-what-impact-will-it-have-171647",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "da8f267827b0",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Parents were fine with sweeping school vaccination mandates five decades ago – but COVID-19 may be a different story",
+    "author": "James Colgrove",
+    "url": "https://theconversation.com/parents-were-fine-with-sweeping-school-vaccination-mandates-five-decades-ago-but-covid-19-may-be-a-different-story-168899",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "1226fbcc3149",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Political frustration in Northern Ireland has heightened tension around ‘marching season’",
+    "author": "Ger FitzGerald",
+    "url": "https://theconversation.com/political-frustration-in-northern-ireland-has-heightened-tension-around-marching-season-163397",
     "license": "CC BY-ND 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
@@ -3630,6 +4430,16 @@
     "title": "Renewable energy is fuelling a forgotten conflict in Africa’s last colony",
     "author": "Joanna Allan",
     "url": "https://theconversation.com/renewable-energy-is-fuelling-a-forgotten-conflict-in-africas-last-colony-170995",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "1a75f6937b82",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Sending science majors into elementary schools helps Latino and Black students realize scientists can look like them",
+    "author": "Dieuwertje J. Kast",
+    "url": "https://theconversation.com/sending-science-majors-into-elementary-schools-helps-latino-and-black-students-realize-scientists-can-look-like-them-159784",
     "license": "CC BY-ND 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
@@ -3664,6 +4474,16 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
   {
+    "id": "41c80f8d9de4",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "US and Cuba spar over jailed dissident – but is José Daniel Ferrer really a political prisoner?",
+    "author": "María Isabel Alfonso",
+    "url": "https://theconversation.com/us-and-cuba-spar-over-jailed-dissident-but-is-jose-daniel-ferrer-really-a-political-prisoner-130121",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
     "id": "3d9bcea60608",
     "kind": "human",
     "source": "The Conversation",
@@ -3694,12 +4514,72 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
   {
+    "id": "7947065f10f6",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "What’s a suborbital flight? An aerospace engineer explains",
+    "author": "John M. Horack",
+    "url": "https://theconversation.com/whats-a-suborbital-flight-an-aerospace-engineer-explains-164279",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "b5b941b4ee3d",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "When football clubs are less successful, fans are more loyal to each other",
+    "author": "Martha Newson",
+    "url": "https://theconversation.com/when-football-clubs-are-less-successful-fans-are-more-loyal-to-each-other-153696",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "72a2f18d8090",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Why COVID cases are now falling in the UK – and what could happen next",
+    "author": "Paul Hunter",
+    "url": "https://theconversation.com/why-covid-cases-are-now-falling-in-the-uk-and-what-could-happen-next-165123",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "997c47f09c8d",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Why did a military superpower fail in Afghanistan?",
+    "author": "Arie Perliger",
+    "url": "https://theconversation.com/why-did-a-military-superpower-fail-in-afghanistan-166238",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
     "id": "400f9df6cef0",
     "kind": "human",
     "source": "The Conversation",
     "title": "Why do frozen turkeys explode when deep-fried?",
     "author": "Kristine Nolin",
     "url": "https://theconversation.com/why-do-frozen-turkeys-explode-when-deep-fried-168933",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "509d3bbe076f",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Why do women still get judged so harshly for having casual sex?",
+    "author": "Jaimie Arona Krems, Michael Varnum",
+    "url": "https://theconversation.com/why-do-women-still-get-judged-so-harshly-for-having-casual-sex-160583",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "3c820ef93342",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Why some Muslim women feel empowered wearing hijab, a headscarf",
+    "author": "Kalpana Jain",
+    "url": "https://theconversation.com/why-some-muslim-women-feel-empowered-wearing-hijab-a-headscarf-155110",
     "license": "CC BY-ND 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
@@ -3724,11 +4604,38 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
   },
   {
+    "id": "8990e2584d6c",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'42-year detour' ends: Garrison Keillor homeward bound",
+    "url": "https://en.wikinews.org/wiki/'42-year_detour'_ends%3A_Garrison_Keillor_homeward_bound",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
     "id": "7574f291865a",
     "kind": "human",
     "source": "Wikinews",
     "title": "'Brakes failed': fourteen killed in Guatemala bus crash",
     "url": "https://en.wikinews.org/wiki/'Brakes_failed'%3A_fourteen_killed_in_Guatemala_bus_crash",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "9976e59e4872",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'Buried' video surfaces of police making mass arrests during the Republican National Convention",
+    "url": "https://en.wikinews.org/wiki/'Buried'_video_surfaces_of_police_making_mass_arrests_during_the_Republican_National_Convention",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "e39f43a9af50",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'Conference of the Americas' announced for 2008",
+    "url": "https://en.wikinews.org/wiki/'Conference_of_the_Americas'_announced_for_2008",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
@@ -3769,6 +4676,15 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
+    "id": "e887ac9c1d92",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'The Administrators were a disaster for the Shire': Wikinews interviews Lindsay Love, Tarwin Valley ward candidate in South Gippsland, Australia",
+    "url": "https://en.wikinews.org/wiki/'The_Administrators_were_a_disaster_for_the_Shire'%3A_Wikinews_interviews_Lindsay_Love%2C_Tarwin_Valley_ward_candidate_in_South_Gippsland%2C_Australia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
     "id": "10e943998986",
     "kind": "human",
     "source": "Wikinews",
@@ -3805,6 +4721,24 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
+    "id": "e7c04e284168",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "\"Twilight\" DVD sells 3 million copies in first day",
+    "url": "https://en.wikinews.org/wiki/%22Twilight%22_DVD_sells_3_million_copies_in_first_day",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dbb78718af86",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "10 billionth song downloaded from Apple's iTunes Store",
+    "url": "https://en.wikinews.org/wiki/10_billionth_song_downloaded_from_Apple's_iTunes_Store",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
     "id": "483c4971097e",
     "kind": "human",
     "source": "Wikinews",
@@ -3814,11 +4748,92 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
+    "id": "d38294eca733",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "130,000 farmers protest in Mexico against NAFTA",
+    "url": "https://en.wikinews.org/wiki/130%2C000_farmers_protest_in_Mexico_against_NAFTA",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "75b576a5175d",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "130M-year-old fossil crocodile skull unearthed on coast of Dorset, UK",
+    "url": "https://en.wikinews.org/wiki/130M-year-old_fossil_crocodile_skull_unearthed_on_coast_of_Dorset%2C_UK",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "fe0a84ead831",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "14,500 job cuts announced by Hewlett-Packard",
+    "url": "https://en.wikinews.org/wiki/14%2C500_job_cuts_announced_by_Hewlett-Packard",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "b419f74ce58f",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "17 troops killed in bombing on Afghanistan-Pakistan border; Separate bombing kills dozens of civilians",
+    "url": "https://en.wikinews.org/wiki/17_troops_killed_in_bombing_on_Afghanistan-Pakistan_border%3B_Separate_bombing_kills_dozens_of_civilians",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "cace6ee70f4f",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "188 Fatah supporters permitted to enter Israel",
+    "url": "https://en.wikinews.org/wiki/188_Fatah_supporters_permitted_to_enter_Israel",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
     "id": "f96394f897a8",
     "kind": "human",
     "source": "Wikinews",
     "title": "1960s Rockabilly music artist Terry Teen dies aged 70",
     "url": "https://en.wikinews.org/wiki/1960s_Rockabilly_music_artist_Terry_Teen_dies_aged_70",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "e86ddbe04bb9",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2005 World Social Forum-Brazil coverage",
+    "url": "https://en.wikinews.org/wiki/2005_World_Social_Forum-Brazil_coverage",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "588dff32739b",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2006 \"Stolenwealth\" Games to confront Commonwealth Games in Melbourne",
+    "url": "https://en.wikinews.org/wiki/2006_%22Stolenwealth%22_Games_to_confront_Commonwealth_Games_in_Melbourne",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "d5dd290c93fd",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2006 Nobel Prize in Medicine awarded to American scientists",
+    "url": "https://en.wikinews.org/wiki/2006_Nobel_Prize_in_Medicine_awarded_to_American_scientists",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "b413cb85797d",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2007 Hope Parade in Taiwan inconjuncted with creation and environment awareness",
+    "url": "https://en.wikinews.org/wiki/2007_Hope_Parade_in_Taiwan_inconjuncted_with_creation_and_environment_awareness",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
@@ -3850,11 +4865,47 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
+    "id": "775157a386a6",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2008 Taiwan Excellence Gold and Silver Awards announced",
+    "url": "https://en.wikinews.org/wiki/2008_Taiwan_Excellence_Gold_and_Silver_Awards_announced",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "49d061919ee0",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2008 Taiwan Tourism Exposition to encourage tourism industry after Sichuan earthquake",
+    "url": "https://en.wikinews.org/wiki/2008_Taiwan_Tourism_Exposition_to_encourage_tourism_industry_after_Sichuan_earthquake",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "8d8b1815ccab",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2008 WiMAX Expo Taipei to showcase the solutions of WiMAX",
+    "url": "https://en.wikinews.org/wiki/2008_WiMAX_Expo_Taipei_to_showcase_the_solutions_of_WiMAX",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
     "id": "eafb2543fba2",
     "kind": "human",
     "source": "Wikinews",
     "title": "25 dead after mine explosion in West Virginia",
     "url": "https://en.wikinews.org/wiki/25_dead_after_mine_explosion_in_West_Virginia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "d67cab9d9a7c",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "25 divisions in Taiwan echoed \"2007 Taiwan Walking Day\"",
+    "url": "https://en.wikinews.org/wiki/25_divisions_in_Taiwan_echoed_%222007_Taiwan_Walking_Day%22",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
@@ -3877,6 +4928,42 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
+    "id": "e6f8fded7774",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "500 million US dollars worth of treasure found off coast of Cornwall UK",
+    "url": "https://en.wikinews.org/wiki/500_million_US_dollars_worth_of_treasure_found_off_coast_of_Cornwall_UK",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "279c9dea597d",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "93-year-old Michigan man freezes to death after electric company limits his power usage",
+    "url": "https://en.wikinews.org/wiki/93-year-old_Michigan_man_freezes_to_death_after_electric_company_limits_his_power_usage",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "9811c1036466",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "A battle between AMD and Intel takes place at 2007 Taipei IT Month",
+    "url": "https://en.wikinews.org/wiki/A_battle_between_AMD_and_Intel_takes_place_at_2007_Taipei_IT_Month",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "e472bc295614",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "A380 makes maiden flight to US",
+    "url": "https://en.wikinews.org/wiki/A380_makes_maiden_flight_to_US",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
     "id": "3468ff9ff388",
     "kind": "human",
     "source": "Wikinews",
@@ -3895,11 +4982,74 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
+    "id": "475b3e78cc34",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Air New Zealand opens direct route to Canada",
+    "url": "https://en.wikinews.org/wiki/Air_New_Zealand_opens_direct_route_to_Canada",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "f57d61221ea0",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Airbus A380 safety test injures 33",
+    "url": "https://en.wikinews.org/wiki/Airbus_A380_safety_test_injures_33",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "62a88ad3ff9c",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Airbus announces job cuts of 10,000",
+    "url": "https://en.wikinews.org/wiki/Airbus_announces_job_cuts_of_10%2C000",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "0d39abc6c36e",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Airbus parent EADS wins £13 billion UK RAF airtanker contract",
+    "url": "https://en.wikinews.org/wiki/Airbus_parent_EADS_wins_%C2%A313_billion_UK_RAF_airtanker_contract",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "2da71c87491e",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Alleged 'rights group' involved with removal of anti-Scientology videos from YouTube doesn't exist; says EFF",
+    "url": "https://en.wikinews.org/wiki/Alleged_'rights_group'_involved_with_removal_of_anti-Scientology_videos_from_YouTube_doesn't_exist%3B_says_EFF",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "84f89e1da941",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Alleged 'rights group' tries to have 4,000 anti-Scientology videos removed from YouTube",
+    "url": "https://en.wikinews.org/wiki/Alleged_'rights_group'_tries_to_have_4%2C000_anti-Scientology_videos_removed_from_YouTube",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
     "id": "4131af6ef59a",
     "kind": "human",
     "source": "Wikinews",
     "title": "Alleged Anthrax killer Bruce Ivins reportedly made edits to Wikipedia",
     "url": "https://en.wikinews.org/wiki/Alleged_Anthrax_killer_Bruce_Ivins_reportedly_made_edits_to_Wikipedia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "6874ade6fb50",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "American Academy of Pediatrics supports dairy for lactose intolerant children",
+    "url": "https://en.wikinews.org/wiki/American_Academy_of_Pediatrics_supports_dairy_for_lactose_intolerant_children",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
@@ -3949,6 +5099,24 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
+    "id": "b332789ee7fc",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Arizona bans abortion for genetic abnormalities",
+    "url": "https://en.wikinews.org/wiki/Arizona_bans_abortion_for_genetic_abnormalities",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "099de04badd0",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Asbestos scare shuts down mail delivery in Christchurch, New Zealand",
+    "url": "https://en.wikinews.org/wiki/Asbestos_scare_shuts_down_mail_delivery_in_Christchurch%2C_New_Zealand",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
     "id": "62f4a5e81b4b",
     "kind": "human",
     "source": "Wikinews",
@@ -3958,7 +5126,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
-    "id": "30fcefbad7f1",
+    "id": "47d886b37aeb",
     "kind": "human",
     "source": "Wikinews",
     "title": "Australia records hottest year on record",
@@ -3990,6 +5158,15 @@
     "source": "Wikinews",
     "title": "Black vulture population targeted for reduction at Virginia boat launch",
     "url": "https://en.wikinews.org/wiki/Black_vulture_population_targeted_for_reduction_at_Virginia_boat_launch",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "d1b8fe66fa85",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Blair recognizes Kyoto treaty stopped by its restrictions",
+    "url": "https://en.wikinews.org/wiki/Blair_recognizes_Kyoto_treaty_stopped_by_its_restrictions",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
@@ -4030,11 +5207,74 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
+    "id": "37fce4a39495",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Buncefield oil depot tank 'was overflowing'",
+    "url": "https://en.wikinews.org/wiki/Buncefield_oil_depot_tank_'was_overflowing'",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "409e2dcd9848",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Amazon River",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062122714",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "62079006cbae",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Angkor Wat",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062659393",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "8f942334bfcb",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Antikythera mechanism",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062326023",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "debce15bbd36",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Aurora",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061690826",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "210c31b7e450",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Axolotl",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062017789",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
     "id": "79d71bfa55a1",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Beekeeping",
     "url": "https://en.wikipedia.org/w/index.php?oldid=1061740053",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "d3ff1e3aa92b",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Bicycle",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062365957",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4066,7 +5306,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "04654671b4f2",
+    "id": "4f026a711717",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Calligraphy",
@@ -4075,7 +5315,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "08fe52016cbc",
+    "id": "ad32f5a7efbb",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Cartography",
@@ -4089,6 +5329,15 @@
     "source": "Wikipedia",
     "title": "Chocolate",
     "url": "https://en.wikipedia.org/w/index.php?oldid=1062248110",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "d371ae183e9f",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Coelacanth",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061786171",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4111,7 +5360,43 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "4f9909bf6c0e",
+    "id": "7597e88348c0",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Compass",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1053418935",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "771062083bd0",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Coral reef",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062529804",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "6c6c7fd06f7d",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Cuneiform",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1060702937",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "717231c282c4",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Cuttlefish",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1060523188",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "20d68c406d93",
     "kind": "human",
     "source": "Wikipedia",
     "title": "DNA",
@@ -4120,7 +5405,16 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "fe043e6c632d",
+    "id": "cf5f41f6e093",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Fjord",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061696747",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "c7996f5f12a1",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Fungus",
@@ -4129,7 +5423,16 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "f88c8ebfe618",
+    "id": "57dbc0059e7c",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Geyser",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061639272",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "14b165929396",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Glacier",
@@ -4156,11 +5459,29 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "ae33832efabd",
+    "id": "57a47a853ca7",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Great Wall of China",
     "url": "https://en.wikipedia.org/w/index.php?oldid=1062730209",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "dfbd21d1422e",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Helicopter",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061048315",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "e78a9bfb482b",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Honey bee",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1059459577",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4201,11 +5522,38 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
+    "id": "2d569eb262dc",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Kelp forest",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1059186283",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "255562f356be",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Krill",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1049146538",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
     "id": "610b0c577fbe",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Library of Alexandria",
     "url": "https://en.wikipedia.org/w/index.php?oldid=1058526707",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "cbb69f4685bc",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Lichen",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1060915142",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4219,7 +5567,25 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "37975a7e0268",
+    "id": "e0048d4f99dc",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Machu Picchu",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062506134",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "8f37c32dd24d",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Mangrove",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061586648",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "98765f6d06d7",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Mitochondrion",
@@ -4228,7 +5594,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "4d76f5518043",
+    "id": "042cf27e78ef",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Monsoon",
@@ -4237,7 +5603,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "0d440968bc66",
+    "id": "86b0f707cb6c",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Mount Everest",
@@ -4246,7 +5612,25 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "cc69959cbfb8",
+    "id": "821db89111cd",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Narwhal",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062378309",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "a2acc5f69a61",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Nautilus",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1060489388",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "26483c6126a8",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Octopus",
@@ -4255,16 +5639,25 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "4b2b201cb534",
+    "id": "b39b1eb8eb3a",
     "kind": "human",
     "source": "Wikipedia",
-    "title": "Origami",
-    "url": "https://en.wikipedia.org/w/index.php?oldid=1061956435",
+    "title": "Pangolin",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062815608",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "17a0486604f9",
+    "id": "79708032fdea",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Pasteurization",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062097557",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "91a1ce8ef046",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Penguin",
@@ -4273,7 +5666,34 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "b27ee384d9f5",
+    "id": "46ee0f455136",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Penicillin",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061490129",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "3a3e2da00d5f",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Permafrost",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061719510",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "69d39f2da5fc",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Petra",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062542412",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "b217e6b56e02",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Photosynthesis",
@@ -4282,11 +5702,29 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "b5f2db0e16fb",
+    "id": "54448daeea4b",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Plate tectonics",
     "url": "https://en.wikipedia.org/w/index.php?oldid=1061821444",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "a1b283ece702",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Platypus",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1060986575",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "c8c0e266a133",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Pompeii",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1060557228",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4300,7 +5738,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "69687c198a3b",
+    "id": "7d0e54c05b95",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Renaissance",
@@ -4309,7 +5747,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "c7057d8727c3",
+    "id": "aef0f8c42510",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Roman Empire",
@@ -4318,7 +5756,34 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "9b18f64011f1",
+    "id": "5b458d3071c4",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Sahara",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062724690",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "240a1aa586cd",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Salt",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1059784472",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "7d185becc3ae",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Seahorse",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1053070770",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "5d24f5caa19f",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Silk Road",
@@ -4327,7 +5792,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "77882e044db2",
+    "id": "ae6c2ff5b6be",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Sourdough",
@@ -4345,11 +5810,56 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
+    "id": "63b68a765f6d",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Stonehenge",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061548440",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "10171477d984",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Submarine",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062981846",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "63a9438c978d",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Tardigrade",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062910751",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
     "id": "daff8a2ff5e0",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Tea",
     "url": "https://en.wikipedia.org/w/index.php?oldid=1062738784",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "3c670c63d8e1",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Telescope",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1057722342",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "720915db041f",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Terracotta Army",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1049735978",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4381,11 +5891,47 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
+    "id": "f5c48aa0473d",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Venus flytrap",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1058581783",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
     "id": "65e6dd6990dc",
     "kind": "human",
     "source": "Wikipedia",
     "title": "Volcano",
     "url": "https://en.wikipedia.org/w/index.php?oldid=1057492486",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "98d741986e57",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Vulcanization",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1053908628",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "0a2292825e06",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Windmill",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062235181",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "d9d545a626f8",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Bath",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4330483",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4417,7 +5963,25 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "c1885b466955",
+    "id": "dab08d038ae9",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Cádiz",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4083926",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "2d7cdfa9472d",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Chefchaouen",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4345087",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "e9c08ab19b68",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Chiang Mai",
@@ -4444,7 +6008,34 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "bf0c373f19ef",
+    "id": "ecf2d4a19e8e",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Essaouira",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4323419",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "6582693d446e",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Fez",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4329379",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "a46292f34569",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Galle",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4309797",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "a1b16e289578",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Galway",
@@ -4453,11 +6044,56 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "03de1d38d073",
+    "id": "50eebc8eb84d",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Ghent",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4330025",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "d1117cee55f9",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Girona",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4191680",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "9662503a0885",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Granada",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4287650",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "7ca1eeb1f978",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Hanoi",
     "url": "https://en.wikivoyage.org/w/index.php?oldid=4357944",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "5a55ecde5e47",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Hoi An",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4302351",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "c2b96f55caa5",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Hue",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4260816",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4471,7 +6107,34 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "31d3223c6a17",
+    "id": "9aac9b2f8027",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Jaipur",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4351922",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "c0884de7d5b5",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Kanazawa",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4327302",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "81c626c87fd4",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Kandy",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4337204",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "380ed58dfaf3",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Kraków",
@@ -4480,7 +6143,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "56d60a82df01",
+    "id": "e737fceb0d47",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Kyoto",
@@ -4489,7 +6152,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "32497a8ebc0f",
+    "id": "f2b810acad05",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Lisbon",
@@ -4507,7 +6170,7 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "9969180fcb90",
+    "id": "fe5372a6f1cf",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Luang Prabang",
@@ -4516,7 +6179,16 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "4fae651736ad",
+    "id": "be8e1f251404",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Malacca",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4296188",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "e54e1e359504",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Marrakech",
@@ -4525,7 +6197,25 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "ae9dbe63ccce",
+    "id": "d65e8f525653",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Nara",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4174825",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "381f3edf3e83",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Pokhara",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4069790",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "d5f97a40a731",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Porto",
@@ -4548,6 +6238,15 @@
     "source": "Wikivoyage",
     "title": "Reykjavík",
     "url": "https://en.wikivoyage.org/w/index.php?oldid=4322925",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "6cb2e88b089b",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Ronda",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4106609",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4588,6 +6287,24 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
+    "id": "4297363e43e1",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Stone Town",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4182583",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "3198026ace6b",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Takayama",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4237615",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
     "id": "39bfb2c441cd",
     "kind": "human",
     "source": "Wikivoyage",
@@ -4597,11 +6314,38 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "5baa92310970",
+    "id": "ef4672501740",
     "kind": "human",
     "source": "Wikivoyage",
     "title": "Tbilisi",
     "url": "https://en.wikivoyage.org/w/index.php?oldid=4339495",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "fd7f77c8176c",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Toledo",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4326664",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "eaa1b4634177",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Udaipur",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4151924",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "26b1d680f937",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Valletta",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4294226",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
@@ -4611,6 +6355,24 @@
     "source": "Wikivoyage",
     "title": "Valparaíso",
     "url": "https://en.wikivoyage.org/w/index.php?oldid=4281511",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ec45742b1bbb",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Varanasi",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4317855",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "e1272438f7d6",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Yangon",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4343835",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   }

@@ -16,6 +16,7 @@
     "corpus:generate": "tsx corpus/build/generate-ai.ts",
     "corpus:generate:frontier": "TIER=frontier tsx corpus/build/generate-ai.ts",
     "corpus:build": "tsx corpus/build/build-corpus.ts",
+    "corpus:grow": "MERGE=1 tsx corpus/build/build-corpus.ts",
     "corpus:verify": "tsx corpus/build/verify-corpus.ts",
     "corpus:pilot": "npm run corpus:fetch && npm run corpus:generate && npm run corpus:build && npm run corpus:verify"
   },

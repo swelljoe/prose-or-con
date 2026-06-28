@@ -4,14 +4,21 @@ import { fetchGutenberg } from './fetchers/gutenberg';
 import { fetchNews } from './fetchers/news';
 import type { Genre, RawItem } from './types';
 
-// Human targets per genre (~200 total). Mirror corpus/build/data.ts AI_TARGETS.
+// Per-genre fetch targets — how many candidates to pull THIS run. Meaning differs
+// by source when growing an existing corpus (build with MERGE=1 dedups by content):
+//   - Fixed-list sources (Wikipedia, Wikivoyage) re-fetch their existing items
+//     (which dedupe away), so the target must be the FULL desired count.
+//   - Random sources (Wikinews, Gutenberg, The Conversation/ProPublica) draw a
+//     fresh batch each run, so the target is roughly the DELTA you want to add.
+// Current values bring the human pool level with the AI pool (~393). For a fresh
+// build from empty, set these to the final per-genre counts (mirror AI_TARGETS).
 const TARGETS = {
-  encyclopedic: 40,
-  news: 35,
-  essay: 35,
-  travel: 25,
-  fiction: 40,
-  poetry: 25,
+  encyclopedic: 80, // Wikipedia, fixed list → full count
+  news: 38, // Wikinews, random → delta
+  essay: 38, // The Conversation/ProPublica, random → delta
+  travel: 50, // Wikivoyage, fixed list → full count
+  fiction: 45, // Gutenberg, random → delta
+  poetry: 20, // Gutenberg, random → delta
 } as const;
 
 async function main(): Promise<void> {

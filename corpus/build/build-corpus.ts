@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { mkdirSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { readCache } from './cache';
@@ -37,22 +37,75 @@ function pack(author: string, meta: Meta): string {
   return Buffer.from(JSON.stringify({ author, meta }), 'utf8').toString('base64');
 }
 
+function unpack(secret: string): { author: 'human' | 'ai'; meta: Meta } {
+  return JSON.parse(Buffer.from(secret, 'base64').toString('utf8'));
+}
+
 function cleanItem(raw: RawItem): string {
   return clean(raw.text, { author: raw.author, poetry: raw.genre === 'poetry' });
 }
 
+/** Derive the public attribution row from a packed item (single source of truth). */
+function sourceOf(item: PackedItem): SourceEntry {
+  const { author, meta } = unpack(item.secret);
+  return {
+    id: item.id,
+    kind: author,
+    source: meta.source,
+    title: meta.title,
+    author: meta.author,
+    url: meta.url,
+    license: meta.license,
+    licenseUrl: meta.licenseUrl,
+    model: meta.model,
+  };
+}
+
+/** Existing committed corpus, or [] if none. The base for additive (MERGE) builds. */
+function loadExisting(): PackedItem[] {
+  const p = join(OUT, 'corpus.json');
+  if (!existsSync(p)) return [];
+  return (JSON.parse(readFileSync(p, 'utf8')) as { items?: PackedItem[] }).items ?? [];
+}
+
+/** Take up to `cap` items, round-robin across genres so a cap stays balanced. */
+function takeBalanced(cands: PackedItem[], cap: number): PackedItem[] {
+  if (cands.length <= cap) return cands;
+  const byGenre = new Map<string, PackedItem[]>();
+  for (const it of cands) {
+    const g = byGenre.get(it.genre) ?? [];
+    g.push(it);
+    byGenre.set(it.genre, g);
+  }
+  const buckets = [...byGenre.values()];
+  const out: PackedItem[] = [];
+  for (let i = 0; out.length < cap && buckets.some((b) => b.length > 0); i++) {
+    const next = buckets[i % buckets.length]!.shift();
+    if (next) out.push(next);
+  }
+  return out;
+}
+
 function main(): void {
+  // MERGE=1 keeps the existing corpus and appends only new items (preserving
+  // every id). GROW=<n> caps how many new items to add (balanced across genres).
+  const merge = process.env.MERGE === '1' || process.env.MERGE === 'true';
+  const grow = process.env.GROW ? Number(process.env.GROW) : Infinity;
+  if (process.env.GROW && !Number.isFinite(grow)) throw new Error('GROW must be a number');
+
+  const existing = merge ? loadExisting() : [];
+  const items: PackedItem[] = [...existing];
+  const seen = new Set(items.map((it) => it.id));
+
   const human = readCache('human');
   const ai = readCache('ai');
-  if (human.length === 0 && ai.length === 0) {
+  if (existing.length === 0 && human.length === 0 && ai.length === 0) {
     throw new Error('no cached items — run corpus:fetch and corpus:generate first');
   }
 
-  const items: PackedItem[] = [];
-  const sources: SourceEntry[] = [];
-  const seen = new Set<string>();
+  // New, in-band, non-duplicate candidates from the caches.
+  const candidates: PackedItem[] = [];
   let dropped = 0;
-
   for (const raw of [...human, ...ai]) {
     const text = cleanItem(raw);
     const wc = wordCount(text);
@@ -63,23 +116,15 @@ function main(): void {
       continue;
     }
     const id = createHash('sha256').update(text).digest('hex').slice(0, 12);
-    if (seen.has(id)) continue;
+    if (seen.has(id)) continue; // already in the corpus, or a duplicate in this batch
     seen.add(id);
-
-    items.push({ id, text, genre: raw.genre, wordCount: wc, secret: pack(raw.author, raw.meta) });
-    sources.push({
-      id,
-      kind: raw.author,
-      source: raw.meta.source,
-      title: raw.meta.title,
-      author: raw.meta.author,
-      url: raw.meta.url,
-      license: raw.meta.license,
-      licenseUrl: raw.meta.licenseUrl,
-      model: raw.meta.model,
-    });
+    candidates.push({ id, text, genre: raw.genre, wordCount: wc, secret: pack(raw.author, raw.meta) });
   }
 
+  const added = Number.isFinite(grow) ? takeBalanced(candidates, grow) : candidates;
+  items.push(...added);
+
+  const sources = items.map(sourceOf);
   sources.sort((a, b) => a.source.localeCompare(b.source) || (a.title ?? '').localeCompare(b.title ?? ''));
 
   const corpus = {
@@ -94,14 +139,15 @@ function main(): void {
   writeFileSync(join(OUT, 'sources.json'), JSON.stringify(sources, null, 2));
 
   const counts: Record<string, { human: number; ai: number }> = {};
-  for (const raw of [...human, ...ai]) {
-    counts[raw.genre] ??= { human: 0, ai: 0 };
+  for (const it of items) {
+    const { author } = unpack(it.secret);
+    (counts[it.genre] ??= { human: 0, ai: 0 })[author]++;
   }
-  for (let i = 0; i < items.length; i++) {
-    const a = JSON.parse(Buffer.from(items[i]!.secret, 'base64').toString()) as { author: 'human' | 'ai' };
-    counts[items[i]!.genre]![a.author]++;
-  }
-  console.log(`Built ${items.length} passages (dropped ${dropped} out-of-band/duplicate).`);
+  console.log(
+    merge
+      ? `Merged: kept ${existing.length}, added ${added.length} of ${candidates.length} new candidates, dropped ${dropped} out-of-band; total ${items.length}.`
+      : `Built ${items.length} passages (dropped ${dropped} out-of-band/duplicate).`,
+  );
   console.log('genre          human  ai');
   for (const [g, c] of Object.entries(counts)) {
     console.log(`  ${g.padEnd(13)} ${String(c.human).padStart(4)} ${String(c.ai).padStart(4)}`);

@@ -18,6 +18,17 @@ export const WIKIPEDIA_TITLES: string[] = [
   'Stained glass', 'Calligraphy', 'Chocolate', 'Sahara', 'Amazon River',
   'Fjord', 'Salt', 'Bicycle', 'Compass', 'Telescope', 'Windmill',
   'Submarine', 'Helicopter', 'Honey bee', 'Coral reef', 'Aurora',
+  // Expansion batch (to bring the human pool level with the AI pool).
+  'Cuneiform', 'Antikythera mechanism', 'Terracotta Army', 'Stonehenge', 'Petra',
+  'Machu Picchu', 'Angkor Wat', 'Pompeii', 'Nazca Lines', 'Permafrost', 'Geyser',
+  'Mangrove', 'Lichen', 'Tardigrade', 'Axolotl', 'Narwhal', 'Pangolin', 'Platypus',
+  'Seahorse', 'Cuttlefish', 'Nautilus', 'Coelacanth', 'Venus flytrap', 'Baobab',
+  'Kelp forest', 'Krill', 'Penicillin', 'Pasteurization', 'Vulcanization',
+  'Semiconductor', 'Transistor', 'Laser', 'Radar', 'Sonar', 'Gyroscope', 'Barometer',
+  'Seismometer', 'Loom', 'Steam engine', 'Morse code', 'Phonograph', 'Ukiyo-e',
+  'Fresco', 'Mosaic', 'Porcelain', 'Lacquer', 'Bookbinding', 'Cheese', 'Fermentation',
+  'Saffron', 'Cinnamon', 'Maple syrup', 'Atoll', 'Karst', 'Oasis', 'Savanna', 'Taiga',
+  'Estuary', 'Caldera', 'Archipelago', 'Nebula', 'Supernova', 'Pulsar', 'Solar eclipse',
 ];
 
 /**
@@ -37,6 +48,14 @@ export const WIKIVOYAGE_TITLES: string[] = [
   'Luang Prabang', 'Chiang Mai', 'Dubrovnik', 'Tallinn', 'Bologna',
   'San Sebastián', 'Galway', 'Salzburg', 'Sarajevo', 'Yangon',
   'Oaxaca', 'Valletta', 'Ghent', 'Bath',
+  // Expansion batch (to bring the human pool level with the AI pool).
+  'Granada', 'Córdoba', 'Toledo', 'Ronda', 'Cádiz', 'Girona', 'Nara', 'Kanazawa',
+  'Takayama', 'Hoi An', 'Hue', 'George Town', 'Malacca', 'Jaipur', 'Udaipur',
+  'Varanasi', 'Pokhara', 'Kandy', 'Galle', 'Stone Town', 'Fez', 'Essaouira',
+  'Chefchaouen', 'Amman', 'Muscat', 'Antigua Guatemala', 'Guanajuato', 'Arequipa',
+  'Trondheim', 'Aarhus', 'Gdańsk', 'Wrocław', 'Brno', 'Vilnius', 'Riga', 'Lviv',
+  'Plovdiv', 'Kotor', 'Split', 'Matera', 'Lecce', 'Siena', 'Lucca', 'Trieste',
+  'Colmar', 'Utrecht', 'Haarlem', 'Coimbra', 'Sintra',
 ];
 
 // Project Gutenberg books are selected at fetch time from the full catalog,

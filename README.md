@@ -46,6 +46,29 @@ npm run corpus:verify            # balance / length / no-tells / pre-2022 checks
 npm run corpus:pilot
 ```
 
+### Grow the corpus (add without starting over)
+
+Item ids are content hashes, so the build can be **additive**: `corpus:grow` keeps every passage
+already in `web/public/corpus.json` (and its id) and appends only items not already present.
+
+```bash
+npm run corpus:fetch             # fresh draw → new obscure Gutenberg works, etc.
+npm run corpus:generate          # new AI passages (non-deterministic each run)
+npm run corpus:generate:frontier # optional: more frontier AI
+GROW=250 npm run corpus:grow     # append up to 250 NEW items, balanced across genres
+npm run corpus:verify
+```
+
+`corpus:grow` is `MERGE=1 corpus:build`. `GROW=<n>` caps how many new items to add (omit to add
+all new candidates); the cap is spread round-robin across genres. New items are deduped against the
+existing corpus by content hash, so a re-fetched passage that's already in the corpus is skipped.
+
+Where growth actually comes from: **Gutenberg** (fiction/poetry) draws a fresh random obscure set
+each fetch, and **AI** generation is non-deterministic, so both grow automatically. **Wikipedia**
+and **Wikivoyage** use fixed title lists at pinned revisions — re-fetching yields identical text
+(same hash, deduped), so to add more of those, extend `WIKIPEDIA_TITLES` / `WIKIVOYAGE_TITLES` in
+`data.ts` first. The human pool is the smaller one, so growing it most reduces repeats in play.
+
 AI passages come from two model tiers (`AI_MODELS` and `AI_MODELS_FRONTIER` in `data.ts`): a
 range of older/smaller models plus current frontier models (Claude Opus 4.8, Gemini 3.5 Flash,
 GPT-5.5, DeepSeek V4 Pro, GLM-5.2), so the human set isn't only pitted against weak models. The
