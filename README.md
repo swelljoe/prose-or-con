@@ -1,7 +1,6 @@
-# Prose or Con
+# Prose or Con?
 
-Can you tell human writing from AI? Read a passage, guess the author, see the source. A static
-game for GitHub Pages with a tiny abuse-resistant scoreboard.
+Can you detect AI written prose?
 
 ## How it works
 
@@ -30,7 +29,7 @@ npm run dev            # play locally at the printed URL
 npm -w web run build   # production build → web/dist
 ```
 
-The game runs fully without a backend; the leaderboard simply hides itself.
+The game runs fully without a backend; the leaderboard simply hides itself if not configured.
 
 ## Rebuild the corpus (needs network + API keys)
 
@@ -122,13 +121,6 @@ rebuild draws a fresh obscure set.)
 ### Scoreboard (Cloudflare Worker)
 See `worker/README.md`. Summary: `wrangler d1 create`, run `schema.sql`, create a KV namespace,
 `wrangler secret put TURNSTILE_SECRET`, set `ALLOWED_ORIGIN` to your Pages origin, `npm -w worker run deploy`.
-
-### Cost / abuse protection
-- **Pages**: static, free.
-- **Worker**: Cloudflare free plan is hard-capped — it stops serving rather than billing, so a
-  discovered URL can't run up a bill.
-- **Writes** require a Cloudflare Turnstile token (verified server-side) and are rate-limited per
-  IP; payloads are strictly validated. CORS is locked to the Pages origin.
 
 ## Attribution
 
