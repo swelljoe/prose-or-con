@@ -2,7 +2,11 @@
 // site key are injected at build time. When unset (e.g. local dev without a
 // backend) the scoreboard UI is hidden and the game still works fully offline.
 
-const SCOREBOARD_URL = import.meta.env.VITE_SCOREBOARD_URL ?? '';
+// Tolerate a misconfigured base URL: strip a trailing slash or an accidental
+// /leaderboard|/score endpoint suffix so we don't build "/leaderboard/leaderboard".
+const SCOREBOARD_URL = (import.meta.env.VITE_SCOREBOARD_URL ?? '')
+  .replace(/\/+$/, '')
+  .replace(/\/(?:leaderboard|score)$/, '');
 export const TURNSTILE_SITEKEY = import.meta.env.VITE_TURNSTILE_SITEKEY ?? '';
 
 export function scoreboardEnabled(): boolean {
