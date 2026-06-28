@@ -1,4 +1,5 @@
 import type { GameRecord } from './storage';
+import { loadName, saveName } from './storage';
 import { escapeHtml } from './util';
 import {
   TURNSTILE_SITEKEY,
@@ -61,7 +62,7 @@ function renderSubmit(area: HTMLElement, record: GameRecord): void {
   area.innerHTML = `
     <form class="submit-form">
       <label>Add to leaderboard
-        <input id="name" maxlength="24" placeholder="your name" autocomplete="off" />
+        <input id="name" maxlength="24" placeholder="your name" autocomplete="off" value="${escapeHtml(loadName())}" />
       </label>
       <div id="ts-widget" class="ts-widget"></div>
       <button type="submit" id="submit-btn" disabled>Submit score</button>
@@ -94,6 +95,7 @@ function renderSubmit(area: HTMLElement, record: GameRecord): void {
     try {
       const rounds = record.rounds.map((r) => [r.id, r.correct ? 1 : 0] as [string, number]);
       await submitScore({ name, correct: record.correct, total: record.total, turnstileToken: token, rounds });
+      saveName(name);
       msg.textContent = 'Submitted! Showing leaderboard…';
       const rows = await fetchLeaderboard('all');
       const top = rows

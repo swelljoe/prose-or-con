@@ -1,6 +1,23 @@
 import type { Author, Genre } from './types';
 
 const KEY = 'poc.history.v1';
+const NAME_KEY = 'poc.name.v1';
+
+export function loadName(): string {
+  try {
+    return localStorage.getItem(NAME_KEY) ?? '';
+  } catch {
+    return '';
+  }
+}
+
+export function saveName(name: string): void {
+  try {
+    localStorage.setItem(NAME_KEY, name);
+  } catch {
+    /* storage full / disabled — non-fatal */
+  }
+}
 
 export interface RoundResult {
   id: string;
