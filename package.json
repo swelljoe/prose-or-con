@@ -1,0 +1,28 @@
+{
+  "name": "prose-or-con",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Can you tell human prose from AI? A static guessing game.",
+  "workspaces": [
+    "web",
+    "worker"
+  ],
+  "scripts": {
+    "dev": "npm -w web run dev",
+    "build": "npm -w web run build",
+    "preview": "npm -w web run preview",
+    "corpus:fetch": "tsx corpus/build/fetch-all.ts",
+    "corpus:generate": "tsx corpus/build/generate-ai.ts",
+    "corpus:generate:frontier": "TIER=frontier tsx corpus/build/generate-ai.ts",
+    "corpus:build": "tsx corpus/build/build-corpus.ts",
+    "corpus:verify": "tsx corpus/build/verify-corpus.ts",
+    "corpus:pilot": "npm run corpus:fetch && npm run corpus:generate && npm run corpus:build && npm run corpus:verify"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "cheerio": "^1.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
