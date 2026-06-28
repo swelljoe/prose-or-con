@@ -14,11 +14,11 @@ export function renderStart(view: HTMLElement, corpus: Corpus): void {
   view.innerHTML = `
     <main class="card start">
       <h1>Can you tell human writing from AI?</h1>
-      <p class="lede">You'll read ${corpus.rounds} passages. For each one, guess whether a
-        person or a machine wrote it. Sources are revealed after every guess.</p>
+      <p class="lede">Read ${corpus.rounds} passages. For each, guess whether a
+        person or a machine wrote it.</p>
       <a class="primary big" href="#/play">Play →</a>
       ${lifetime}
-      <p class="dim">${corpus.items.length} passages in the pool · all human writing predates 2022.</p>
+      <p class="dim">${corpus.items.length} passages in the pool.</p>
     </main>`;
 }
 
