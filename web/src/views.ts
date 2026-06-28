@@ -1,9 +1,9 @@
-import type { Corpus, SourceEntry } from './types';
+import type { CorpusIndex, SourceEntry } from './types';
 import { escapeHtml } from './util';
 import { aggregateStats, loadGames } from './storage';
 import { fetchLeaderboard, scoreboardEnabled } from './scoreboard';
 
-export function renderStart(view: HTMLElement, corpus: Corpus): void {
+export function renderStart(view: HTMLElement, corpus: CorpusIndex): void {
   const stats = aggregateStats(loadGames());
   const lifetime =
     stats.rounds > 0

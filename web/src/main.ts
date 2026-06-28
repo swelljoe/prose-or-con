@@ -1,20 +1,34 @@
 import './style.css';
-import type { Corpus, SourceEntry } from './types';
+import type { CorpusIndex, ItemFile, SourceEntry } from './types';
 import { renderGame } from './game';
 import { renderHistory, renderLeaderboard, renderSources, renderStart } from './views';
 
 const app = document.getElementById('app')!;
 const base = import.meta.env.BASE_URL;
 
-let corpus: Corpus | null = null;
+let index: CorpusIndex | null = null;
 let sources: SourceEntry[] | null = null;
+const itemCache = new Map<string, Promise<ItemFile>>();
 
-async function getCorpus(): Promise<Corpus> {
-  if (!corpus) {
-    const res = await fetch(`${base}corpus.json`);
-    corpus = (await res.json()) as Corpus;
+async function getIndex(): Promise<CorpusIndex> {
+  if (!index) {
+    const res = await fetch(`${base}corpus/index.json`);
+    if (!res.ok) throw new Error(`corpus ${res.status}`);
+    index = (await res.json()) as CorpusIndex;
   }
-  return corpus;
+  return index;
+}
+
+function getItem(id: string): Promise<ItemFile> {
+  let p = itemCache.get(id);
+  if (!p) {
+    p = fetch(`${base}corpus/items/${id}.json`).then((res) => {
+      if (!res.ok) throw new Error(`item ${res.status}`);
+      return res.json() as Promise<ItemFile>;
+    });
+    itemCache.set(id, p);
+  }
+  return p;
 }
 
 async function getSources(): Promise<SourceEntry[]> {
@@ -43,7 +57,7 @@ async function route(): Promise<void> {
   try {
     switch (true) {
       case hash === '/play': {
-        renderGame(view, await getCorpus());
+        await renderGame(view, await getIndex(), getItem);
         break;
       }
       case hash === '/history':
@@ -56,7 +70,7 @@ async function route(): Promise<void> {
         renderSources(view, await getSources());
         break;
       default:
-        renderStart(view, await getCorpus());
+        renderStart(view, await getIndex());
     }
   } catch (err) {
     view.innerHTML = `<main class="card"><p>Could not load the game: ${(err as Error).message}</p></main>`;

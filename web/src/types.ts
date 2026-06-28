@@ -20,26 +20,24 @@ export interface Meta {
   nd?: boolean; // verbatim-required source
 }
 
-/** The hidden answer for a passage, base64-packed in corpus.json. */
-export interface Answer {
-  author: Author;
-  meta: Meta;
-}
-
-/** A passage as shipped in corpus.json (answer is packed in `secret`). */
-export interface PackedItem {
+/** One entry in corpus/index.json — selection data only, no text or meta. */
+export interface IndexEntry {
   id: string;
-  text: string;
   genre: Genre;
-  wordCount: number;
-  secret: string; // base64(JSON(Answer))
+  secret: string; // base64(JSON({ author }))
 }
 
-export interface Corpus {
+export interface CorpusIndex {
   version: number;
   builtAt: string;
   rounds: number;
-  items: PackedItem[];
+  items: IndexEntry[];
+}
+
+/** A single passage file (corpus/items/<id>.json), fetched only when played. */
+export interface ItemFile {
+  text: string;
+  meta: Meta;
 }
 
 /** One row on the public Sources/attribution page. */

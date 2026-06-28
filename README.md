@@ -14,6 +14,13 @@ The game reads `web/public/corpus.json` (passages, answers packed/base64) and
 `web/public/sources.json` (full attribution). Both are **built artifacts, committed** to the
 repo, so CI needs no API keys.
 
+`corpus.json` is the source of truth but is **not served as one file**. At build time a Vite
+plugin (`web/scripts/split-corpus.ts`) splits it into `corpus/index.json` (id + genre + packed
+author only — the selection index, ~8 KB gzipped) and one `corpus/items/<id>.json` (`{text, meta}`)
+per passage. The game fetches the index once, then only the ~10 item files it plays — so a session
+downloads ~14 KB instead of the whole ~475 KB corpus, and the index barely grows as the corpus
+does. The split is gitignored and regenerated on every build; the monolith is dropped from `dist`.
+
 ### Design principle: test style, not artifacts
 
 Human and AI passages are normalized to the same surface form (citations, headings, markdown,

@@ -13,3 +13,6 @@ corpus/cache/
 
 # Vite
 web/dist/
+
+# Generated at build time from web/public/corpus.json (the committed monolith).
+web/public/corpus/

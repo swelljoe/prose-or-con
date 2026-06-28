@@ -1,17 +1,38 @@
-import type { Answer, Author, Corpus, PackedItem } from './types';
-import { escapeHtml, pickRounds, unpackAnswer } from './util';
+import type { Author, CorpusIndex, Genre, ItemFile, Meta } from './types';
+import { escapeHtml, pickRounds, unpackAuthor } from './util';
 import { saveGame, type GameRecord, type RoundResult } from './storage';
 import { renderEndScreen } from './endscreen';
 
-interface RoundState {
-  item: PackedItem;
-  answer: Answer;
+interface Round {
+  id: string;
+  genre: Genre;
+  author: Author;
+  text: string;
+  meta: Meta;
 }
 
-export function renderGame(root: HTMLElement, corpus: Corpus): void {
-  const rounds = pickRounds(corpus.items, corpus.rounds).map(
-    (item): RoundState => ({ item, answer: unpackAnswer(item) }),
-  );
+export async function renderGame(
+  root: HTMLElement,
+  index: CorpusIndex,
+  getItem: (id: string) => Promise<ItemFile>,
+): Promise<void> {
+  const entries = pickRounds(index.items, index.rounds);
+  root.innerHTML = `<main class="card"><p class="dim">Loading passages…</p></main>`;
+  let files: ItemFile[];
+  try {
+    files = await Promise.all(entries.map((e) => getItem(e.id)));
+  } catch (err) {
+    root.innerHTML = `<main class="card"><p>Could not load passages: ${escapeHtml((err as Error).message)}</p></main>`;
+    return;
+  }
+
+  const rounds: Round[] = entries.map((e, i) => ({
+    id: e.id,
+    genre: e.genre,
+    author: unpackAuthor(e),
+    text: files[i]!.text,
+    meta: files[i]!.meta,
+  }));
   const results: RoundResult[] = [];
   let idx = 0;
 
@@ -23,11 +44,11 @@ export function renderGame(root: HTMLElement, corpus: Corpus): void {
   }
 
   function renderRound(): void {
-    const { item } = rounds[idx]!;
+    const { text } = rounds[idx]!;
     root.innerHTML = `
       <main class="card">
         <div class="progress">Passage ${idx + 1} of ${rounds.length}</div>
-        <article class="passage">${paragraphs(item.text)}</article>
+        <article class="passage">${paragraphs(text)}</article>
         <p class="prompt">Who wrote this?</p>
         <div class="choices">
           <button class="choice" data-guess="human">✍️ Human</button>
@@ -40,14 +61,14 @@ export function renderGame(root: HTMLElement, corpus: Corpus): void {
   }
 
   function onGuess(guess: Author): void {
-    const { item, answer } = rounds[idx]!;
-    const correct = guess === answer.author;
+    const r = rounds[idx]!;
+    const correct = guess === r.author;
     results.push({
-      id: item.id,
-      genre: item.genre,
-      source: answer.meta.source,
-      model: answer.meta.model,
-      actual: answer.author,
+      id: r.id,
+      genre: r.genre,
+      source: r.meta.source,
+      model: r.meta.model,
+      actual: r.author,
       guess,
       correct,
     });
@@ -55,11 +76,11 @@ export function renderGame(root: HTMLElement, corpus: Corpus): void {
   }
 
   function renderReveal(guess: Author, correct: boolean): void {
-    const { item, answer } = rounds[idx]!;
-    const m = answer.meta;
+    const r = rounds[idx]!;
+    const m = r.meta;
     const verdict = correct ? 'Correct' : 'Not quite';
     const truth =
-      answer.author === 'human'
+      r.author === 'human'
         ? 'A human wrote this.'
         : `An AI wrote this${m.model ? ` (${escapeHtml(m.model)})` : ''}.`;
 
@@ -77,7 +98,7 @@ export function renderGame(root: HTMLElement, corpus: Corpus): void {
     root.innerHTML = `
       <main class="card reveal ${correct ? 'good' : 'bad'}">
         <div class="progress">Passage ${idx + 1} of ${rounds.length}</div>
-        <article class="passage muted">${paragraphs(item.text)}</article>
+        <article class="passage muted">${paragraphs(r.text)}</article>
         <div class="verdict">
           <h2>${verdict}</h2>
           <p>You guessed <b>${guess === 'human' ? '✍️ Human' : '🤖 AI'}</b>. ${escapeHtml(truth)}</p>
@@ -103,7 +124,7 @@ export function renderGame(root: HTMLElement, corpus: Corpus): void {
       rounds: results,
     };
     saveGame(record);
-    renderEndScreen(root, record, () => renderGame(root, corpus));
+    renderEndScreen(root, record, () => void renderGame(root, index, getItem));
   }
 
   renderRound();

@@ -1,4 +1,4 @@
-import type { Answer, PackedItem } from './types';
+import type { Author, IndexEntry } from './types';
 
 /** Decode a UTF-8 base64 string (the packed answer). */
 export function b64decodeUtf8(b: string): string {
@@ -6,8 +6,9 @@ export function b64decodeUtf8(b: string): string {
   return new TextDecoder().decode(bytes);
 }
 
-export function unpackAnswer(item: PackedItem): Answer {
-  return JSON.parse(b64decodeUtf8(item.secret)) as Answer;
+/** The answer for a passage, unpacked from an index entry's `secret`. */
+export function unpackAuthor(entry: IndexEntry): Author {
+  return (JSON.parse(b64decodeUtf8(entry.secret)) as { author: Author }).author;
 }
 
 /** Fisher–Yates shuffle (copy). */
@@ -21,7 +22,7 @@ export function shuffle<T>(input: readonly T[]): T[] {
 }
 
 interface Tagged {
-  it: PackedItem;
+  it: IndexEntry;
   author: string;
 }
 
@@ -50,8 +51,8 @@ function pickSpread(pool: Tagged[], n: number): Tagged[] {
  * neither "always guess AI" (the pool is mostly AI) nor end-of-game counting
  * ("we must be due for an AI one") pays off. Spread across genres within each side.
  */
-export function pickRounds(items: readonly PackedItem[], count: number): PackedItem[] {
-  const tagged: Tagged[] = items.map((it) => ({ it, author: unpackAnswer(it).author }));
+export function pickRounds(items: readonly IndexEntry[], count: number): IndexEntry[] {
+  const tagged: Tagged[] = items.map((it) => ({ it, author: unpackAuthor(it) }));
   const human = tagged.filter((d) => d.author === 'human');
   const ai = tagged.filter((d) => d.author === 'ai');
 
