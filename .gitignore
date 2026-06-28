@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Pipeline cache: raw fetched/generated text. Rebuilt from sources, not committed.
+corpus/cache/
+
+# Never commit secrets or local wrangler state.
+.dev.vars
+.wrangler/
+*.local
+
+# Vite
+web/dist/

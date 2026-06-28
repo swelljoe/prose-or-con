@@ -1,0 +1,4617 @@
+[
+  {
+    "id": "a68e1a24de7b",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "14af0ac905f7",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "288546bb9e36",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "caa77f253d53",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "0f417ad03275",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "bb786ecdf53e",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "d66babc74162",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "54a792ac8119",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "c21d4e5e19c3",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "fd324da23355",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "682bdee912e0",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "3819ced9592a",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "084f3b08698f",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "119b6f652e39",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "436ce6358596",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "c21b150a29c5",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "eb3fc0f2e8be",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "d8d0ac3ebef2",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "390338d33840",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "4eb841b51675",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "887a26e0fb1d",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "b628fa853f4d",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "409852a1eaa7",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "8c9a1207bd58",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "85147f6857b8",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "b117228292ef",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "4f9178bfd99d",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "1759984901d3",
+    "kind": "ai",
+    "source": "Claude",
+    "license": "AI-generated",
+    "model": "claude"
+  },
+  {
+    "id": "cdc72995fde0",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "9df235a5c255",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "98faf82bfc80",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "a5fd9d7b26f5",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "70cc50e44d9d",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "fb243b04f291",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "a09a3be3342f",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "73c08067a12e",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "d6766d1a0c93",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "b39da0020d7e",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "4195fce4c074",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "df0fa04df575",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "f34d70405330",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "0fd88a90f8ec",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "4fd73f1e66cf",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "7ef223e55e47",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "e8b9b3b93b3c",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "f42c787472e2",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "63dca3a55d97",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "f7e53b6c54a2",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "2ed4385ce5d8",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "ac9e089ec829",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "1aaf4d130bd6",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "21870ea72eca",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "363e1a95ebde",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "c7e584778a66",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "9670ecf9301d",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "596d136988c5",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "127f18fb3170",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "708aa9dd668d",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "5f5297092316",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "7b072e6f12e2",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "bd537e660eb2",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "028b5d55964f",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "1e3807df2679",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "778651d1246b",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "4c93279b9786",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "8bdd41f15b13",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "41d61ee7ffb0",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "a25d24ba571b",
+    "kind": "ai",
+    "source": "Claude Opus 4.8",
+    "license": "AI-generated",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  {
+    "id": "415d32cdb8af",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "34ef4439a301",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "32fa8d03d81d",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "11e22a47b380",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "2210d5e9db6f",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "7bc050eb52cd",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "f502ea927306",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "e358a2e6cd80",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "93a4fd0875f4",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "f24d592da75d",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "0b3c78abd0d2",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "43e8bcb0464c",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "9b762786c983",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "c8ffed5dbe8a",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "126b04ca1ad2",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "01e92104bc45",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "886266a2893b",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "283de14f0c0c",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "0839efdf55db",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "f990cb6919b2",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "853996f1c76c",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "3e9123851d2c",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "f3a02ce3fb67",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "36ff51d3a282",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "d873a8894c6f",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "f57278448c91",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "8945da5e6f27",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "a339b599c9a5",
+    "kind": "ai",
+    "source": "DeepSeek",
+    "license": "AI-generated",
+    "model": "deepseek-chat"
+  },
+  {
+    "id": "d615219e6d07",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "caf70ec06d3e",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "727acdff77fb",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "868af2028c21",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "fa3716c2242e",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "8654de19915b",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "98a74545e721",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "6c59022e4f91",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "ed0ebdcf2b17",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "22d981cf3d32",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "c195bf540f04",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "2a123f984174",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "30bc1df7f560",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "f1cb6b2e6f25",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "f1f4e58ca0f9",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "b03bece0416a",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "4f8a60363e3a",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "1f42cb2334ac",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "38445876171c",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "41ec0bd3dd81",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "7f6978d71f56",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "5b132bf44b75",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "4c05b7ba3b36",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "8900632f36ce",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "801ead09b88b",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "3642da1a6107",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "06775d334430",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "c407a58cb389",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "e7075cce4989",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "3c0241a1c768",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "5912bdb91e74",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "be1728890484",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "37e7180adb9c",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "9d69dfbe921d",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "5e63c06936f8",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "919250e734d3",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "11b55cbcfa04",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "7f281602c361",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "48e30f3a06a3",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "e689b72f0b72",
+    "kind": "ai",
+    "source": "DeepSeek V4 Pro",
+    "license": "AI-generated",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  {
+    "id": "90b68bca910c",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "ae60245872d8",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "65c5168db4b7",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "ca21d532012d",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "dd148ee6eb53",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "88e56d8cab1f",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "f4b924ab9837",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "b02c00b3fba8",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "ff0aa3c38a11",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "adaf83ba4ead",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "2cdace6bdcd4",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "ff63ea80fde8",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "66a6c475699d",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "b89899d61a6a",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "9b0f494b1d8f",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "8b8bedd70837",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "5c624062b88c",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "a8bb3624ade8",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "3b6b39a72457",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "f6af0fe1f731",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "6885846916b9",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "9cf8e94c5620",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "3ee68b8a41d9",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "a568bf152378",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "b227c2f62055",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "011252c28ec3",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "6d3c807c1e2f",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "b916f4a263bf",
+    "kind": "ai",
+    "source": "Gemini 2.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-2.5-flash"
+  },
+  {
+    "id": "cc7395baf4d1",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "ddeb4d8c35a3",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "f4f5becd38aa",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "9eb300b15f8f",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "41d8870ca675",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "8e56ae075ac5",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "9e71d5f194b4",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "990f02065215",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "4fec40d56e74",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "088da815d3a5",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "26a1ff96b956",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "d7e5ac1950c4",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "df31972c9e8e",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "587fe133f990",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "9a771ed89711",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "d7b022b45115",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "5c2827a55bb1",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "d2f7bbec1d63",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "bfc64357bb98",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "9a3da5713a84",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "1790a8a531b3",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "caacba562cee",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "b1b6eeaac690",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "471edabef6e7",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "a6c1493572f3",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "d10ba0a23d4b",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "ac59de746cb7",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "4fedda7f401a",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "827685570198",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "15080511e1dd",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "23f03d60e194",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "378ccda6d22f",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "c0ad4399c315",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "46987bf60ace",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "66a042e94f9a",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "973312c1cdbc",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "f75ed467813b",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "2d53755b7185",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "4663fccd1eab",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "399fe122ad86",
+    "kind": "ai",
+    "source": "Gemini 3.5 Flash",
+    "license": "AI-generated",
+    "model": "google/gemini-3.5-flash"
+  },
+  {
+    "id": "b0e595d58301",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "b017eb8dbfa3",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "2190a46b8cc3",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "5ea923a3528d",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "a021042a4b41",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "70bd929329c5",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "bc81b66d5cb9",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "005a50ac4bbd",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "5b1265aaf5fb",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "906ef57f66da",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "164281a1744e",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "08936a0173ef",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "d04429def661",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "333276172797",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "1e3233bd5ef7",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "13d381c1de7c",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "3125c0df33b5",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "01f83b9d4b30",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "d5a25e366b4a",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "aafa3da90f88",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "f764868ae76f",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "92a7d5271bfc",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "9b463813dc37",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "99f38dd4ba36",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "c95eb8941bfe",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "cd14bf5d9ba2",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "d8d45d94aa50",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "3b0a3100d5ec",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "628d47a35461",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "dcee80cf55fd",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "9780c3fb164e",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "0193bc78700d",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "f576adb5547b",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "745fc016f607",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "4c783c783b41",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "febbc8c609ec",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "74ac7e00056f",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "ce480390b7d6",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "cb141450629b",
+    "kind": "ai",
+    "source": "GLM-5.2",
+    "license": "AI-generated",
+    "model": "z-ai/glm-5.2"
+  },
+  {
+    "id": "fd02e7688043",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "09b0ca45169d",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "6fe05cc13867",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "7356bb7b6232",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "6dca3bfd9134",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "da157e7b07c8",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "03417f8e8da4",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "5d4d8afd7b89",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "b84511d8b315",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "f25c0709f83c",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "818ba5f8a593",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "802544d8ed18",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "f20ae966063f",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "a230b87d4f92",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "f746efe6da47",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "89e983f83fa5",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "452eb8595126",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "c8b3d6b655cf",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "fa8ea0e5c9ec",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "1466666d52cf",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "af5ec30b96ea",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "7880e7b5a393",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "b4c71bf7526d",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "1832bc2d403e",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "69a8391721c0",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "d0b8d557a8bb",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "476117a7addb",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "2fde43562b4d",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "75018b46489d",
+    "kind": "ai",
+    "source": "GPT-4o mini",
+    "license": "AI-generated",
+    "model": "openai/gpt-4o-mini"
+  },
+  {
+    "id": "62677a36ae6f",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "4d794ee7c0b7",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "063519ec6132",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "e2b0baf49495",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "5f42a87745ce",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "d8abc802197b",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "840aa2d4ff6e",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "ce4415c18834",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "f71cbbbc6d34",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "1dbf12d170a6",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "c317e3d38f52",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "0582b387b033",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "e1cc7f1bb7f0",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "99f1a2cf66af",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "b7a659492693",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "0cbf07375138",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "7d16f3858646",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "837f0a12d7f4",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "2dbf9f114a70",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "b9376c69a18b",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "a38b0297bf74",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "f8aab3d0831b",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "d125a34926c5",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "4e872c21b45d",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "9ebac073cfdf",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "c0b0c2328fe4",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "f6141ed9a932",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "9b849a8f7ce6",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "ffcb0d360ca4",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "016880fa7dfa",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "732a3bd6f973",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "b623f2adf804",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "36f0e9106216",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "ebd21ea19f4a",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "99e3fd59f4fa",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "161f0eb5ff1e",
+    "kind": "ai",
+    "source": "GPT-5.5",
+    "license": "AI-generated",
+    "model": "openai/gpt-5.5"
+  },
+  {
+    "id": "0c58d323eb88",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "4a394ab64a68",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "00db1ab39cc1",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "a13786951f91",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "3d38f86f6ea6",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "15ed64c78534",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "aa093c507e75",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "fd2e2e5a53bf",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "b28fc61bd1b4",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "98e590d06576",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "17542acb28ae",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "c3bf844aa69e",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "2a60d39aa06e",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "528e0ff02174",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "b82f9daa620c",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "85166fe1d004",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "e86282705636",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "a451e503d182",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "8bab080ae541",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "5c4081726b90",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "229314880cd0",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "e46d0779ffb4",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "4e3aefcbb7e9",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "2f69ac3689d2",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "faeb69adb24f",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "3eb25d474665",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "768659b756aa",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "5927906d3c68",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "5d45b1bbb1eb",
+    "kind": "ai",
+    "source": "Llama 3.3 70B",
+    "license": "AI-generated",
+    "model": "meta-llama/llama-3.3-70b-instruct"
+  },
+  {
+    "id": "bfc4e1ec089d",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "862466d3d2b1",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "173775ac9eb2",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "626b40dd6eca",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "039acb75bd32",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "e137db5ba8f9",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "bdee745947f4",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "ebbbff076689",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "da7a9622eddf",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "cd05f3eebf2f",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "c5447d8d0ab2",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "b998bc6bdf18",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "c901433dc06a",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "751e7b8e77ca",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "c8631a0cef45",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "78919d2f6569",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "42336bff64b6",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "0a5b73545a38",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "7a42efd4b052",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "4c4e93296785",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "06de054e5153",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "9ef4b1638674",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "97421107b836",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "42e7eb2c5d94",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "94fd4efc888e",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "223ca229812a",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "f4e6d201c822",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "7d652b99bf82",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "7ee3d73438c4",
+    "kind": "ai",
+    "source": "Mistral Small",
+    "license": "AI-generated",
+    "model": "mistralai/mistral-small-3.2-24b-instruct"
+  },
+  {
+    "id": "8afb90e4697e",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "'Twixt Earth and Stars: Poems",
+    "author": "Radclyffe Hall",
+    "url": "https://www.gutenberg.org/ebooks/49277",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "f756008bddfc",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "'Twixt Earth and Stars: Poems",
+    "author": "Radclyffe Hall",
+    "url": "https://www.gutenberg.org/ebooks/49277",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "0871b88b8501",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "A Collection of Ballads",
+    "author": "Andrew Lang",
+    "url": "https://www.gutenberg.org/ebooks/1054",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "d2ab9990a982",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "A Collection of Ballads",
+    "author": "Andrew Lang",
+    "url": "https://www.gutenberg.org/ebooks/1054",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "64adaca0283d",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "A Ladder of Swords: A Tale of Love, Laughter and Tears",
+    "author": "Gilbert Parker",
+    "url": "https://www.gutenberg.org/ebooks/41303",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "ed143f8e62e4",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "A Study In Shadows",
+    "author": "William John Locke",
+    "url": "https://www.gutenberg.org/ebooks/53995",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "31e24e842b25",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "An Ambitious Woman: A Novel",
+    "author": "Edgar Fawcett",
+    "url": "https://www.gutenberg.org/ebooks/38075",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "634b12c82dfa",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Ballads of Romance and Chivalry",
+    "author": "Frank Sidgwick",
+    "url": "https://www.gutenberg.org/ebooks/20469",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "b8f39696869b",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Ballads of Romance and Chivalry",
+    "author": "Frank Sidgwick",
+    "url": "https://www.gutenberg.org/ebooks/20469",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "39a6450d441e",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "East and West: Poems",
+    "author": "Bret Harte",
+    "url": "https://www.gutenberg.org/ebooks/8402",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "e4a1c2576c27",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "East and West: Poems",
+    "author": "Bret Harte",
+    "url": "https://www.gutenberg.org/ebooks/8402",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "ef085385dd9f",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "English Critical Essays: Nineteenth Century",
+    "url": "https://www.gutenberg.org/ebooks/31283",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "b93f740146a0",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "English Critical Essays: Nineteenth Century",
+    "url": "https://www.gutenberg.org/ebooks/31283",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "ebab0f276d63",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Evan Harrington — Volume 6",
+    "author": "George Meredith",
+    "url": "https://www.gutenberg.org/ebooks/4432",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "e8947ea9ea70",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Glenarvon, Volume 1 (of 3)",
+    "author": "Lady Caroline Lamb",
+    "url": "https://www.gutenberg.org/ebooks/68754",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "1f84cbd8ffea",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Guy Garrick",
+    "author": "Arthur B. Reeve",
+    "url": "https://www.gutenberg.org/ebooks/5163",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "05718d9b4c51",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Ishmael; Or, In the Depths",
+    "author": "Emma Dorothy Eliza Nevitte Southworth",
+    "url": "https://www.gutenberg.org/ebooks/15774",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "95306329baa8",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Johnny Ludlow, First Series",
+    "author": "Mrs. Henry Wood",
+    "url": "https://www.gutenberg.org/ebooks/40915",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "9387fd1a946e",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Letters from My Windmill",
+    "author": "Alphonse Daudet",
+    "url": "https://www.gutenberg.org/ebooks/30442",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "5f4e85696688",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Looking Further Forward",
+    "author": "Richard Michaelis",
+    "url": "https://www.gutenberg.org/ebooks/59330",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "2ab39b1ba560",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Mirth and metre",
+    "author": "Frank E. Smedley",
+    "url": "https://www.gutenberg.org/ebooks/69177",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "a797aaa1a48b",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Mirth and metre",
+    "author": "Frank E. Smedley",
+    "url": "https://www.gutenberg.org/ebooks/69177",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "638a01c61608",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "My Friend Pasquale, and Other Stories",
+    "author": "James Selwin Tait",
+    "url": "https://www.gutenberg.org/ebooks/49484",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "80c649d87923",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Oberon and Puck",
+    "author": "Helen Gray Cone",
+    "url": "https://www.gutenberg.org/ebooks/73629",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "c22235e30baa",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Oberon and Puck",
+    "author": "Helen Gray Cone",
+    "url": "https://www.gutenberg.org/ebooks/73629",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "ffd7f249d455",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Oxford poetry, 1920",
+    "url": "https://www.gutenberg.org/ebooks/50376",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "eaddd956d4b5",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Oxford poetry, 1920",
+    "url": "https://www.gutenberg.org/ebooks/50376",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "e65f6716a3de",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Oxford poetry, 1921",
+    "url": "https://www.gutenberg.org/ebooks/50429",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "f31be30af935",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Oxford poetry, 1921",
+    "url": "https://www.gutenberg.org/ebooks/50429",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "6f3094cff1f3",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Rahab",
+    "author": "Waldo David Frank",
+    "url": "https://www.gutenberg.org/ebooks/73590",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "7663bf4f3d39",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Tales of a Cruel Country",
+    "author": "Gerald Cumberland",
+    "url": "https://www.gutenberg.org/ebooks/60272",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "3f79efbf2de1",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The A B C of Drag Hunting",
+    "author": "Grace Clarke Newton",
+    "url": "https://www.gutenberg.org/ebooks/34159",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "4fe3dc82cb5a",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The A B C of Drag Hunting",
+    "author": "Grace Clarke Newton",
+    "url": "https://www.gutenberg.org/ebooks/34159",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "486382fb982e",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Asses of Balaam",
+    "author": "Randall Garrett",
+    "url": "https://www.gutenberg.org/ebooks/30583",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "d2d741e2c4d7",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The City in the Clouds",
+    "author": "Guy Thorne",
+    "url": "https://www.gutenberg.org/ebooks/37270",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "7da6cfb096c9",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Colors of Space",
+    "author": "Marion Zimmer Bradley",
+    "url": "https://www.gutenberg.org/ebooks/20796",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "1113d18e9bb6",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Comet, and Other Verses",
+    "author": "Irving Sidney Dix",
+    "url": "https://www.gutenberg.org/ebooks/42265",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "c5dcada2d03d",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Conquest: The True Story of Lewis and Clark",
+    "author": "Eva Emery Dye",
+    "url": "https://www.gutenberg.org/ebooks/42925",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "dff9852c311b",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Deemster",
+    "author": "Sir Hall Caine",
+    "url": "https://www.gutenberg.org/ebooks/35781",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "bfc5f64916a9",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The devil in a nunnery, and other mediaeval tales",
+    "author": "Francis Oscar Mann",
+    "url": "https://www.gutenberg.org/ebooks/78528",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "d4660a3521d5",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Flag, and Other Poems, 1918",
+    "author": "Amy Redpath Roddick",
+    "url": "https://www.gutenberg.org/ebooks/51212",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "4f89ab492dde",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Flag, and Other Poems, 1918",
+    "author": "Amy Redpath Roddick",
+    "url": "https://www.gutenberg.org/ebooks/51212",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "abaf62ebdaf2",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Habitant and Other French-Canadian Poems",
+    "author": "William Henry Drummond",
+    "url": "https://www.gutenberg.org/ebooks/9801",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "7411613f518e",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Habitant and Other French-Canadian Poems",
+    "author": "William Henry Drummond",
+    "url": "https://www.gutenberg.org/ebooks/9801",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "0e5bd52e9d8c",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Hispaniola Plate (1683-1893)",
+    "author": "John Bloundelle-Burton",
+    "url": "https://www.gutenberg.org/ebooks/52210",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "a5219d614c10",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Joyous Adventures of Aristide Pujol",
+    "author": "William John Locke",
+    "url": "https://www.gutenberg.org/ebooks/26154",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "77f13c2f719f",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The man from Oregon",
+    "author": "Mary B. Arbuckle",
+    "url": "https://www.gutenberg.org/ebooks/78410",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "fc1dc1934e52",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Middle Temple Murder",
+    "author": "J. S. Fletcher",
+    "url": "https://www.gutenberg.org/ebooks/10373",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "cecdd3370322",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The mordant",
+    "author": "Merab Eberle",
+    "url": "https://www.gutenberg.org/ebooks/78282",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "2fc35fec9208",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The murderer",
+    "author": "Murray Leinster",
+    "url": "https://www.gutenberg.org/ebooks/73612",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "b5c347f7d33a",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The night wire",
+    "author": "H. F. Arnold",
+    "url": "https://www.gutenberg.org/ebooks/68555",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "875deb304735",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Quest of Glory",
+    "author": "Marjorie Bowen",
+    "url": "https://www.gutenberg.org/ebooks/48767",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "7fd4dd97bf7c",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Return of Tharn",
+    "author": "Howard Browne",
+    "url": "https://www.gutenberg.org/ebooks/33529",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "4c04aecce302",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The seventh shot",
+    "author": "Herman Landon",
+    "url": "https://www.gutenberg.org/ebooks/76659",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "e070aa8aec03",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Story of Kennett",
+    "author": "Bayard Taylor",
+    "url": "https://www.gutenberg.org/ebooks/8680",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "c5943eeaa207",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The sturdy oak",
+    "url": "https://www.gutenberg.org/ebooks/8435",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "72ab49018d39",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The three wise men",
+    "author": "Ernest Haycox",
+    "url": "https://www.gutenberg.org/ebooks/78541",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "e20800931997",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The Well",
+    "author": "W. W. Jacobs",
+    "url": "https://www.gutenberg.org/ebooks/12124",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "1fc9e36940d4",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "The World That Couldn't Be",
+    "author": "Clifford D. Simak",
+    "url": "https://www.gutenberg.org/ebooks/32026",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "967c0a4feef6",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Toffee haunts a ghost",
+    "author": "Henry Farrell",
+    "url": "https://www.gutenberg.org/ebooks/71659",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "52f8bf37f748",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Vesty of the Basins",
+    "author": "Sarah Pratt McLean Greene",
+    "url": "https://www.gutenberg.org/ebooks/21443",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "b94435ea3cb6",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Vittoria — Volume 4",
+    "author": "George Meredith",
+    "url": "https://www.gutenberg.org/ebooks/4438",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "77abf336b442",
+    "kind": "human",
+    "source": "Project Gutenberg",
+    "title": "Warrior-Maid of Mars",
+    "author": "Alfred Coppel",
+    "url": "https://www.gutenberg.org/ebooks/64774",
+    "license": "Public Domain",
+    "licenseUrl": "https://www.gutenberg.org/policy/license.html"
+  },
+  {
+    "id": "ccbd6112bee1",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "“The Best Bargain in the History of Law Enforcement” — and the High Cost of Not Testing Backlogged Rape Kits",
+    "author": "Catherine Rentz",
+    "url": "https://www.propublica.org/article/the-best-bargain-in-the-history-of-law-enforcement-and-the-high-cost-of-not-testing-backlogged-rape-kits",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "cb45335e7f36",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "A Misplaced Breathing Tube Can Be Fatal. New Studies Suggest They Should Be Used Less Often.",
+    "author": "Lynn Arditi",
+    "url": "https://www.propublica.org/article/a-misplaced-breathing-tube-can-be-fatal-new-studies-suggest-they-should-be-used-less-often",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "709ad8abca54",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "A Spike in People Dying at Home Suggests Coronavirus Deaths in Houston May Be Higher Than Reported",
+    "author": "Charles Ornstein, Mike Hixenbaugh",
+    "url": "https://www.propublica.org/article/a-spike-in-people-dying-at-home-suggests-coronavirus-deaths-in-houston-may-be-higher-than-reported",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "2f5ccafdafae",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "Did Rudy Giuliani Nullify His Attorney-Client Protections?",
+    "author": "Ian MacDougall",
+    "url": "https://www.propublica.org/article/did-rudy-giuliani-nullify-his-attorney-client-protections",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "b8765406b03d",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "House Bill Would Blow Up the Massive IRAs of the Superwealthy",
+    "author": "Justin Elliott, Patricia Callahan, James Bandler",
+    "url": "https://www.propublica.org/article/house-bill-would-blow-up-the-massive-iras-of-the-superwealthy",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "5ce848a36b58",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "How McKinsey Helped the Trump Administration Detain and Deport Immigrants",
+    "author": "Ian MacDougall",
+    "url": "https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "52442ed78cab",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "How the Pandemic Economy Could Wipe Out a Generation of Black-Owned Businesses",
+    "author": "Lydia DePillis",
+    "url": "https://www.propublica.org/article/the-pandemics-existential-threat-to-black-owned-businesses",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "c0e77fd677bb",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "IRS: Sorry, but It’s Just Easier and Cheaper to Audit the Poor",
+    "author": "Paul Kiel",
+    "url": "https://www.propublica.org/article/irs-sorry-but-its-just-easier-and-cheaper-to-audit-the-poor",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "151d45a99a66",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "KentuckyWired: Our Rural Broadband Investigation, Explained",
+    "author": "Alfred Miller",
+    "url": "https://www.propublica.org/article/kentuckywired-our-rural-broadband-investigation-explained",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "d4451b907fad",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "Louisiana Senate President Sank Ride-Sharing Bill. His Close Pal Sells Insurance to Cabs.",
+    "author": "Rebekah Allen",
+    "url": "https://www.propublica.org/article/louisiana-senate-president-john-alario-sank-ride-sharing-bill",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "94cc3d2f260d",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "One Federal Agency Was Suing Him for Fraud. Another Paid His Company Millions for Masks.",
+    "author": "J. David McSwane",
+    "url": "https://www.propublica.org/article/one-federal-agency-was-suing-him-for-fraud-another-paid-his-company-millions-for-masks",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "7b2ef551bfcf",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "Readers Say Our Database of Accused Priests Is Incomplete. They’re Not Wrong. Here’s Why.",
+    "author": "Lexi Churchill",
+    "url": "https://www.propublica.org/article/readers-say-our-database-of-accused-priests-is-incomplete-theyre-not-wrong-heres-why",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "f3b91edcb187",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "Sacklers Who Disavow OxyContin May Have Benefited From It",
+    "author": "David Armstrong",
+    "url": "https://www.propublica.org/article/sacklers-who-disavow-oxycontin-may-have-benefited-from-it",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "39cf5a29c036",
+    "kind": "human",
+    "source": "ProPublica",
+    "title": "What the Horrific Crash on the Border Says About U.S. Immigration Policy",
+    "author": "Dara Lind",
+    "url": "https://www.propublica.org/article/what-the-horrific-crash-on-the-border-says-about-u-s-immigration-policy",
+    "license": "CC BY-NC-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "id": "06891eb2463e",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "445aa14c2728",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "6774d22ce24d",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "534644cb5a3c",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "7305048c0c50",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "ae1ccf41e534",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "9fa77e9268f5",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "50825ddc7907",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "3148bac29fae",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "4968267ed526",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "11b33618cf8f",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "7951371d025d",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "83110e0acf8a",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "bddfc44b07a3",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "cbc5753ca77b",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "7ce2d104efd0",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "4f949fc27929",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "4a72fdb7a8aa",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "014118f25ad9",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "3250bb7d7e69",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "8571ec588704",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "b7e7d981acec",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "090686222eae",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "d76333637c72",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "185efa8ed65f",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "bd35a7499179",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "dc3f3ba5a1bc",
+    "kind": "ai",
+    "source": "Qwen 2.5 72B",
+    "license": "AI-generated",
+    "model": "qwen/qwen-2.5-72b-instruct"
+  },
+  {
+    "id": "2a44f70e1a1e",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Anti-vaxxers are weaponising the vaccine hesitancy of Black communities",
+    "author": "Winston Morgan",
+    "url": "https://theconversation.com/anti-vaxxers-are-weaponising-the-vaccine-hesitancy-of-black-communities-153836",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "b11e6e6ccfe4",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "COP26: a four-minute guide by a climate scientist",
+    "author": "Richard Hodgkins",
+    "url": "https://theconversation.com/cop26-a-four-minute-guide-by-a-climate-scientist-170545",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "0c58168a816c",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "COVID: poorest countries should have stopped short of full workplace closures – economist",
+    "author": "Mehdi Shiva",
+    "url": "https://theconversation.com/covid-poorest-countries-should-have-stopped-short-of-full-workplace-closures-economist-160836",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "813f0f19ae78",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Dinosaur bones became griffins, volcanic eruptions were gods fighting – geomythology looks to ancient stories for hints of scientific truth",
+    "author": "Timothy John Burbery",
+    "url": "https://theconversation.com/dinosaur-bones-became-griffins-volcanic-eruptions-were-gods-fighting-geomythology-looks-to-ancient-stories-for-hints-of-scientific-truth-162071",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "d9043d8fa0f7",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Fast food is comforting, but in low-income areas it crowds out fresher options",
+    "author": "Catherine Keske",
+    "url": "https://theconversation.com/fast-food-is-comforting-but-in-low-income-areas-it-crowds-out-fresher-options-136227",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "1ecf875b6552",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Genomic surveillance: What it is and why we need more of it to track coronavirus variants and help end the COVID-19 pandemic",
+    "author": "Alexander Sundermann, Lee Harrison, Vaughn Cooper",
+    "url": "https://theconversation.com/genomic-surveillance-what-it-is-and-why-we-need-more-of-it-to-track-coronavirus-variants-and-help-end-the-covid-19-pandemic-157540",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "4116bbd1b27c",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "How South Korea flattened the coronavirus curve with technology",
+    "author": "Michael Ahn",
+    "url": "https://theconversation.com/how-south-korea-flattened-the-coronavirus-curve-with-technology-136202",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "ba1943956120",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "I’m an OB/GYN who attended thousands of deliveries before wondering why Americans give birth in bed",
+    "author": "Neel Shah",
+    "url": "https://theconversation.com/im-an-ob-gyn-who-attended-thousands-of-deliveries-before-wondering-why-americans-give-birth-in-bed-127894",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "2d137f538268",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Making peace between Israelis and Palestinians – is now the time for a different approach?",
+    "author": "David Mednicoff, Raslan Ibrahim",
+    "url": "https://theconversation.com/making-peace-between-israelis-and-palestinians-is-now-the-time-for-a-different-approach-161565",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "2f9b023dcc99",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "New antidepressants can lift depression and suicidal thoughts fast, but don’t expect magic cures",
+    "author": "Nicholas Mischel",
+    "url": "https://theconversation.com/new-antidepressants-can-lift-depression-and-suicidal-thoughts-fast-but-dont-expect-magic-cures-148721",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "901d5fcf4e66",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Progressive prosecutors scored big wins in 2020 elections, boosting a nationwide trend",
+    "author": "Caren Morrison",
+    "url": "https://theconversation.com/progressive-prosecutors-scored-big-wins-in-2020-elections-boosting-a-nationwide-trend-149322",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "db8fcd964d6d",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Renewable energy is fuelling a forgotten conflict in Africa’s last colony",
+    "author": "Joanna Allan",
+    "url": "https://theconversation.com/renewable-energy-is-fuelling-a-forgotten-conflict-in-africas-last-colony-170995",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "38e59a39712b",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "The US delivers $1.9 trillion jolt of economic relief: 4 essential reads",
+    "author": "Bryan Keogh",
+    "url": "https://theconversation.com/the-us-delivers-1-9-trillion-jolt-of-economic-relief-4-essential-reads-156930",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "175eefd87478",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Tutoring kids who don’t need it is a booming business in affluent areas where parents want to stack the deck",
+    "author": "Pawan Dhingra",
+    "url": "https://theconversation.com/tutoring-kids-who-dont-need-it-is-a-booming-business-in-affluent-areas-where-parents-want-to-stack-the-deck-131517",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "770391601962",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "US abortion bans back before the Supreme Court – but globally more countries are liberalising access than restricting it. Podcast",
+    "author": "Daniel Merino, Gemma Ware",
+    "url": "https://theconversation.com/us-abortion-bans-back-before-the-supreme-court-but-globally-more-countries-are-liberalising-access-than-restricting-it-podcast-172342",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "3d9bcea60608",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "We’re teaching robots to evolve autonomously – so they can adapt to life alone on distant planets",
+    "author": "Emma Hart",
+    "url": "https://theconversation.com/were-teaching-robots-to-evolve-autonomously-so-they-can-adapt-to-life-alone-on-distant-planets-153159",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "6b9fb132dd82",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "What college students need to know about liability waivers for COVID-19",
+    "author": "Joy Blanchard",
+    "url": "https://theconversation.com/what-college-students-need-to-know-about-liability-waivers-for-covid-19-145361",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "86a1e1321b7f",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "What is HIPAA? 5 questions answered about the medical privacy law that protects Trump’s test results and yours",
+    "author": "Margaret Riley",
+    "url": "https://theconversation.com/what-is-hipaa-5-questions-answered-about-the-medical-privacy-law-that-protects-trumps-test-results-and-yours-147805",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "400f9df6cef0",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Why do frozen turkeys explode when deep-fried?",
+    "author": "Kristine Nolin",
+    "url": "https://theconversation.com/why-do-frozen-turkeys-explode-when-deep-fried-168933",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "236d415bfc44",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Why your social media habit is probably not an addiction – new research",
+    "author": "David James Robertson, Simon Hunter, Stephen Butler",
+    "url": "https://theconversation.com/why-your-social-media-habit-is-probably-not-an-addiction-new-research-158888",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "a6fbf013aa6d",
+    "kind": "human",
+    "source": "The Conversation",
+    "title": "Winners of 2021 Nobel Prize in Physics built mathematics of climate modeling, making predictions of global warming and modern weather forecasting possible",
+    "author": "David Randall",
+    "url": "https://theconversation.com/winners-of-2021-nobel-prize-in-physics-built-mathematics-of-climate-modeling-making-predictions-of-global-warming-and-modern-weather-forecasting-possible-169329",
+    "license": "CC BY-ND 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nd/4.0/"
+  },
+  {
+    "id": "7574f291865a",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'Brakes failed': fourteen killed in Guatemala bus crash",
+    "url": "https://en.wikinews.org/wiki/'Brakes_failed'%3A_fourteen_killed_in_Guatemala_bus_crash",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "4c4fe07157f3",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'Critical safety issue' with A380 engines",
+    "url": "https://en.wikinews.org/wiki/'Critical_safety_issue'_with_A380_engines",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "e55ad09219ac",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'Django Unchained' returns to Chinese cinemas",
+    "url": "https://en.wikinews.org/wiki/'Django_Unchained'_returns_to_Chinese_cinemas",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "cb16d43ea855",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'Guiding Light' to flicker out after 72 years on radio, TV",
+    "url": "https://en.wikinews.org/wiki/'Guiding_Light'_to_flicker_out_after_72_years_on_radio%2C_TV",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "8ddd528dd4ed",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'Killing Fields' trial for S-21 chief Duch underway in Cambodia",
+    "url": "https://en.wikinews.org/wiki/'Killing_Fields'_trial_for_S-21_chief_Duch_underway_in_Cambodia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "10e943998986",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "'Very serious': Chinese government releases corruption report",
+    "url": "https://en.wikinews.org/wiki/'Very_serious'%3A_Chinese_government_releases_corruption_report",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "e64f6fa8ac5e",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "\"Civil defence\" thwarts Israeli air strike on Gaza refugee camp",
+    "url": "https://en.wikinews.org/wiki/%22Civil_defence%22_thwarts_Israeli_air_strike_on_Gaza_refugee_camp",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "5d17f15bb2ec",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "\"Junk\" foods may affect aggressive behaviour and school performance",
+    "url": "https://en.wikinews.org/wiki/%22Junk%22_foods_may_affect_aggressive_behaviour_and_school_performance",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "d29e427f2124",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "\"Shrinking Cities\" debuts in Detroit, Michigan",
+    "url": "https://en.wikinews.org/wiki/%22Shrinking_Cities%22_debuts_in_Detroit%2C_Michigan",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "483c4971097e",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "13 pilot whales returning to sea, off Western Australia",
+    "url": "https://en.wikinews.org/wiki/13_pilot_whales_returning_to_sea%2C_off_Western_Australia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "f96394f897a8",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "1960s Rockabilly music artist Terry Teen dies aged 70",
+    "url": "https://en.wikinews.org/wiki/1960s_Rockabilly_music_artist_Terry_Teen_dies_aged_70",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "47a64c4ab595",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2008 Boao Forum for Asia starts with sectors on economy, environment, and the Internet",
+    "url": "https://en.wikinews.org/wiki/2008_Boao_Forum_for_Asia_starts_with_sectors_on_economy%2C_environment%2C_and_the_Internet",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "ad4ad09df704",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2008 Computex Preview: WiMAX, threat? opportunity?",
+    "url": "https://en.wikinews.org/wiki/2008_Computex_Preview%3A_WiMAX%2C_threat%3F_opportunity%3F",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dd6a188b5fc5",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "2008 SecuTech Expo starts in Taipei, Taiwan for grasping global security industry",
+    "url": "https://en.wikinews.org/wiki/2008_SecuTech_Expo_starts_in_Taipei%2C_Taiwan_for_grasping_global_security_industry",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "eafb2543fba2",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "25 dead after mine explosion in West Virginia",
+    "url": "https://en.wikinews.org/wiki/25_dead_after_mine_explosion_in_West_Virginia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "fd21f3d9f928",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "380 million year old fossilized trees found in New York, USA",
+    "url": "https://en.wikinews.org/wiki/380_million_year_old_fossilized_trees_found_in_New_York%2C_USA",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "4de6d7eb7950",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "5-year old American girl dies after visiting the dentist",
+    "url": "https://en.wikinews.org/wiki/5-year_old_American_girl_dies_after_visiting_the_dentist",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "3468ff9ff388",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Aerosmith sued over late cancellation of gig in Maui, Hawaii",
+    "url": "https://en.wikinews.org/wiki/Aerosmith_sued_over_late_cancellation_of_gig_in_Maui%2C_Hawaii",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "7a3038e166ef",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Agriculture's impact on human evolution clarified",
+    "url": "https://en.wikinews.org/wiki/Agriculture's_impact_on_human_evolution_clarified",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "4131af6ef59a",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Alleged Anthrax killer Bruce Ivins reportedly made edits to Wikipedia",
+    "url": "https://en.wikinews.org/wiki/Alleged_Anthrax_killer_Bruce_Ivins_reportedly_made_edits_to_Wikipedia",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "b47a5cb10c14",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "American surgeon Michael E. DeBakey dies at age 99",
+    "url": "https://en.wikinews.org/wiki/American_surgeon_Michael_E._DeBakey_dies_at_age_99",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "06331538f376",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Amnesty Report 2006: disadvantaged pay price of war on terror",
+    "url": "https://en.wikinews.org/wiki/Amnesty_Report_2006%3A_disadvantaged_pay_price_of_war_on_terror",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "82efc090dce0",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Annual Perseids meteor shower visible in northern hemisphere",
+    "url": "https://en.wikinews.org/wiki/Annual_Perseids_meteor_shower_visible_in_northern_hemisphere",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dfef7add8657",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Appendix has purpose: Scientists",
+    "url": "https://en.wikinews.org/wiki/Appendix_has_purpose%3A_Scientists",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "c7627d3eb2b0",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Apples top most contaminated produce list",
+    "url": "https://en.wikinews.org/wiki/Apples_top_most_contaminated_produce_list",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "62f4a5e81b4b",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Asian monsoon rains force millions to flee",
+    "url": "https://en.wikinews.org/wiki/Asian_monsoon_rains_force_millions_to_flee",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "30fcefbad7f1",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Australia records hottest year on record",
+    "url": "https://en.wikinews.org/wiki/Australia_records_hottest_year_on_record",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "58647bcbea3c",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Australia stingray deaths possible revenge for Steve Irwin",
+    "url": "https://en.wikinews.org/wiki/Australia_stingray_deaths_possible_revenge_for_Steve_Irwin",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "a61c0d4b1f3c",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Australian government commits AU$60 million to cut greenhouse emissions",
+    "url": "https://en.wikinews.org/wiki/Australian_government_commits_AU%2460_million_to_cut_greenhouse_emissions",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "bfa96868135f",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Black vulture population targeted for reduction at Virginia boat launch",
+    "url": "https://en.wikinews.org/wiki/Black_vulture_population_targeted_for_reduction_at_Virginia_boat_launch",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "a6796b75f6eb",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Bloomberg and Clinton create green alliance",
+    "url": "https://en.wikinews.org/wiki/Bloomberg_and_Clinton_create_green_alliance",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "52d7574844c8",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Bonobo chimp threatened in Congo",
+    "url": "https://en.wikinews.org/wiki/Bonobo_chimp_threatened_in_Congo",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dde7a38199c4",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "BP report into Gulf of Mexico disaster lays blame on other contractors",
+    "url": "https://en.wikinews.org/wiki/BP_report_into_Gulf_of_Mexico_disaster_lays_blame_on_other_contractors",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "e8b02b07d52e",
+    "kind": "human",
+    "source": "Wikinews",
+    "title": "Brazilian environmentalists tell residents to urinate in shower to save water",
+    "url": "https://en.wikinews.org/wiki/Brazilian_environmentalists_tell_residents_to_urinate_in_shower_to_save_water",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "79d71bfa55a1",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Beekeeping",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061740053",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "6d357694bc17",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Bioluminescence",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1059374710",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ee40d738707c",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Bird migration",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1059501853",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ec232ea42e69",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Black hole",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062544359",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "04654671b4f2",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Calligraphy",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1059994948",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "08fe52016cbc",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Cartography",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062554389",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "b0a4b2a0a3a1",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Chocolate",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062248110",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "7f7fc3912d63",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Coffee",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062706454",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "3e5ddaba1a57",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Comet",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062364405",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "4f9909bf6c0e",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "DNA",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1060707694",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "fe043e6c632d",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Fungus",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1057656541",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "f88c8ebfe618",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Glacier",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062928719",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "e3cd10280bb3",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Gothic architecture",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062458629",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "221d63eecac6",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Great Barrier Reef",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1059154147",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ae33832efabd",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Great Wall of China",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062730209",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "8b3a37496d1c",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Impressionism",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1057361967",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "321faa7b76be",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Industrial Revolution",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061179430",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "f839dcc37fff",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Jazz",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062883000",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "b91213dee1d8",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Jupiter",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062736443",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "610b0c577fbe",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Library of Alexandria",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1058526707",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "f6aede44f018",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Lighthouse",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1060924885",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "37975a7e0268",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Mitochondrion",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062323657",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "4d76f5518043",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Monsoon",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1057235981",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "0d440968bc66",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Mount Everest",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062966990",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "cc69959cbfb8",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Octopus",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062964734",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "4b2b201cb534",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Origami",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061956435",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "17a0486604f9",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Penguin",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1059999750",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "b27ee384d9f5",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Photosynthesis",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062819171",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "b5f2db0e16fb",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Plate tectonics",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061821444",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "7396e80b96d8",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Printing press",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1057311111",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "69687c198a3b",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Renaissance",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062021634",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "c7057d8727c3",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Roman Empire",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062882524",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "9b18f64011f1",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Silk Road",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062254076",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "77882e044db2",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Sourdough",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1060507728",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "1c1311086223",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Stained glass",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062446613",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "daff8a2ff5e0",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Tea",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062738784",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "a88878f87432",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Thunderstorm",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1057264238",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "854c42cfbcd7",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Tide",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1061774343",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "d55c0c255aa1",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Vaccine",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1062160553",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "65e6dd6990dc",
+    "kind": "human",
+    "source": "Wikipedia",
+    "title": "Volcano",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1057492486",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "b92cb1c9a423",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Bergen",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4352818",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "65f3fe44c874",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Bologna",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4338660",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "05c7548e40a4",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Bruges",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4334586",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "c1885b466955",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Chiang Mai",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4358000",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "8ee58bd49606",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Dubrovnik",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4302751",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "6f01bc2960bc",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Edinburgh",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4344097",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "bf0c373f19ef",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Galway",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4331515",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "03de1d38d073",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Hanoi",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4357944",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "d287bcb84e1d",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Istanbul",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4355855",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "31d3223c6a17",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Kraków",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4330619",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "56d60a82df01",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Kyoto",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4306748",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "32497a8ebc0f",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Lisbon",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4338695",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "c256da91413b",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Ljubljana",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4342939",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "9969180fcb90",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Luang Prabang",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4345260",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "4fae651736ad",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Marrakech",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4353398",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ae9dbe63ccce",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Porto",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4305134",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "12ceb67bcca5",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Prague",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4358015",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "89305a79d004",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Reykjavík",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4322925",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "d5d383f99fac",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Salzburg",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4338578",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "f3171d1ade34",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "San Sebastián",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4285919",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "20ca13aa54cb",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Sarajevo",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4338585",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "e580b1be87ed",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Seville",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4357250",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "39bfb2c441cd",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Tallinn",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4338602",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "5baa92310970",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Tbilisi",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4339495",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "e318469d286b",
+    "kind": "human",
+    "source": "Wikivoyage",
+    "title": "Valparaíso",
+    "url": "https://en.wikivoyage.org/w/index.php?oldid=4281511",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+]

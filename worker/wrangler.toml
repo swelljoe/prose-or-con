@@ -1,0 +1,28 @@
+name = "prose-or-con-scoreboard"
+main = "src/index.ts"
+compatibility_date = "2024-11-01"
+
+# Serve on the *.workers.dev URL (the endpoint the frontend calls); disable the
+# per-version preview URLs so the Worker has one public hostname, not many.
+workers_dev = true
+preview_urls = false
+
+# D1 database. Create it with `wrangler d1 create prose-or-con`, then paste the
+# returned database_id below (replace REPLACE_ME).
+[[d1_databases]]
+binding = "DB"
+database_name = "prose-or-con"
+database_id = "a9e00ea4-508d-4ac7-8c8f-d9ffefd04a55"
+
+# KV namespace for best-effort IP rate limiting. Create it with
+# `wrangler kv namespace create RL`, then paste the returned id below.
+[[kv_namespaces]]
+binding = "RL"
+id = "b87e62ea223f48b496bf275f3411cd46"
+
+[vars]
+# Plaintext var: the exact origin allowed by CORS (your GitHub Pages site).
+ALLOWED_ORIGIN = "https://prose-or-con.com"
+
+# TURNSTILE_SECRET is a SECRET, not a plaintext var. Do NOT put it here.
+# Set it with: wrangler secret put TURNSTILE_SECRET
