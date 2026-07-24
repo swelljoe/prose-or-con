@@ -51,4 +51,5 @@ export interface SourceEntry {
   license: string;
   licenseUrl?: string;
   model?: string;
+  snippet?: string;
 }

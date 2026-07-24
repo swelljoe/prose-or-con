@@ -81,9 +81,12 @@ export function renderSources(view: HTMLElement, sources: SourceEntry[]): void {
   const list = (entries: SourceEntry[]): string =>
     entries
       .map((s) => {
+        const titleText = s.title ?? s.snippet ?? s.source;
         const title = s.url
-          ? `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.title ?? s.source)}</a>`
-          : escapeHtml(s.title ?? s.source);
+          ? `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(titleText)}</a>`
+          : s.kind === 'ai'
+            ? `<a href="#/passage/${s.id}">${escapeHtml(titleText)}</a>`
+            : escapeHtml(titleText);
         const author = s.author ? ` by ${escapeHtml(s.author)}` : '';
         const lic = s.licenseUrl
           ? `<a href="${escapeHtml(s.licenseUrl)}" target="_blank" rel="noopener">${escapeHtml(s.license)}</a>`
@@ -102,5 +105,32 @@ export function renderSources(view: HTMLElement, sources: SourceEntry[]): void {
       <ul class="source-list">${list(human)}</ul>
       <h3>AI writing (${ai.length})</h3>
       <ul class="source-list">${list(ai)}</ul>
+    </main>`;
+}
+
+export function renderPassage(view: HTMLElement, item: ItemFile): void {
+  const m = item.meta;
+  const paragraphs = item.text
+    .split(/\n{2,}/)
+    .map((p) => `<p>${escapeHtml(p.trim()).replace(/\n/g, '<br>')}</p>`)
+    .join('');
+
+  const attrParts: string[] = [`<strong>${escapeHtml(m.source)}</strong>`];
+  if (m.title) attrParts.push(escapeHtml(m.title));
+  if (m.author) attrParts.push(`by ${escapeHtml(m.author)}`);
+  const license = m.licenseUrl
+    ? `<a href="${escapeHtml(m.licenseUrl)}" target="_blank" rel="noopener">${escapeHtml(m.license)}</a>`
+    : escapeHtml(m.license);
+  const link = m.url
+    ? `<a href="${escapeHtml(m.url)}" target="_blank" rel="noopener">View original</a>`
+    : '';
+
+  view.innerHTML = `
+    <main class="card reveal">
+      <article class="passage">${paragraphs}</article>
+      <div class="verdict">
+        <p class="attribution">${attrParts.join(' · ')}<br>${license}${link ? ' · ' + link : ''}</p>
+      </div>
+      <a class="primary" href="#/sources">← Back to sources</a>
     </main>`;
 }

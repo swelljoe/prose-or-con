@@ -1,7 +1,8 @@
 import './style.css';
 import type { CorpusIndex, ItemFile, SourceEntry } from './types';
 import { renderGame } from './game';
-import { renderHistory, renderLeaderboard, renderSources, renderStart } from './views';
+import { escapeHtml } from './util';
+import { renderHistory, renderLeaderboard, renderPassage, renderSources, renderStart } from './views';
 
 const app = document.getElementById('app')!;
 const base = import.meta.env.BASE_URL;
@@ -69,6 +70,15 @@ async function route(): Promise<void> {
       case hash === '/sources':
         renderSources(view, await getSources());
         break;
+      case hash.startsWith('/passage/'): {
+        const id = hash.slice(9);
+        try {
+          renderPassage(view, await getItem(id));
+        } catch (err) {
+          view.innerHTML = `<main class="card"><p>Could not load passage: ${escapeHtml((err as Error).message)}</p></main>`;
+        }
+        break;
+      }
       default:
         renderStart(view, await getIndex());
     }
