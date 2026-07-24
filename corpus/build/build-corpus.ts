@@ -31,13 +31,14 @@ interface SourceEntry {
   license: string;
   licenseUrl?: string;
   model?: string;
+  snippet?: string;
 }
 
 function pack(author: string, meta: Meta): string {
   return Buffer.from(JSON.stringify({ author, meta }), 'utf8').toString('base64');
 }
 
-function unpack(secret: string): { author: 'human' | 'ai'; meta: Meta } {
+export function unpack(secret: string): { author: 'human' | 'ai'; meta: Meta } {
   return JSON.parse(Buffer.from(secret, 'base64').toString('utf8'));
 }
 
@@ -58,6 +59,7 @@ function sourceOf(item: PackedItem): SourceEntry {
     license: meta.license,
     licenseUrl: meta.licenseUrl,
     model: meta.model,
+    snippet: author === 'ai' && !meta.title ? item.text.slice(0, 60) + '...' : undefined,
   };
 }
 
@@ -155,4 +157,6 @@ function main(): void {
   console.log(`Wrote ${join(OUT, 'corpus.json')} and sources.json`);
 }
 
-main();
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main();
+}
