@@ -48,17 +48,28 @@ function cleanItem(raw: RawItem): string {
 /** Derive the public attribution row from a packed item (single source of truth). */
 function sourceOf(item: PackedItem): SourceEntry {
   const { author, meta } = unpack(item.secret);
+  // AI passages have no title in their metadata; derive a short one from the
+  // first few words of the passage text so they're identifiable on the Sources
+  // page and can link to a passage view.
+  const title = meta.title ?? (author === 'ai' ? deriveTitle(item.text) : undefined);
   return {
     id: item.id,
     kind: author,
     source: meta.source,
-    title: meta.title,
+    title,
     author: meta.author,
     url: meta.url,
     license: meta.license,
     licenseUrl: meta.licenseUrl,
     model: meta.model,
   };
+}
+
+/** Make a short, human-readable title from the leading words of a passage. */
+function deriveTitle(text: string): string {
+  const words = text.trim().split(/\s+/).filter(Boolean);
+  const head = words.slice(0, 8).join(' ');
+  return words.length > 8 ? head + '…' : head;
 }
 
 /** Existing committed corpus, or [] if none. The base for additive (MERGE) builds. */

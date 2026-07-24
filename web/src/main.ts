@@ -1,7 +1,7 @@
 import './style.css';
 import type { CorpusIndex, ItemFile, SourceEntry } from './types';
 import { renderGame } from './game';
-import { renderHistory, renderLeaderboard, renderSources, renderStart } from './views';
+import { renderHistory, renderLeaderboard, renderPassage, renderSources, renderStart } from './views';
 
 const app = document.getElementById('app')!;
 const base = import.meta.env.BASE_URL;
@@ -69,6 +69,17 @@ async function route(): Promise<void> {
       case hash === '/sources':
         renderSources(view, await getSources());
         break;
+      case hash.startsWith('/passage/'): {
+        const id = decodeURIComponent(hash.slice('/passage/'.length));
+        const all = await getSources();
+        const entry = all.find((s) => s.id === id);
+        if (!entry) {
+          view.innerHTML = `<main class="card"><p class="dim">No such passage.</p></main>`;
+        } else {
+          await renderPassage(view, entry, getItem);
+        }
+        break;
+      }
       default:
         renderStart(view, await getIndex());
     }
