@@ -143,7 +143,7 @@ export async function renderPassage(
   const truth =
     entry.kind === 'human'
       ? 'A human wrote this.'
-      : `An AI wrote this${m.model ? ` (${escapeHtml(m.model)})` : ''}`;
+      : `An AI wrote this${m.model ? ` (${m.model})` : ''}.`;
 
   const attrParts: string[] = [`<strong>${escapeHtml(m.source)}</strong>`];
   if (m.title) attrParts.push(escapeHtml(m.title));
