@@ -137,7 +137,7 @@ export async function renderPassage(
       .split(/\n{2,}/)
       .map((p) => p.replace(/[ \t]+/g, ' ').trim())
       .filter((p) => p.length > 0)
-      .map((p) => `<p class="muted">${escapeHtml(p).replace(/\n/g, '<br>')}</p>`)
+      .map((p) => `<p>${escapeHtml(p).replace(/\n/g, '<br>')}</p>`)
       .join('');
 
   const truth =
