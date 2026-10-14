@@ -1,4 +1,4 @@
-import type { CorpusIndex, SourceEntry } from './types';
+import type { CorpusIndex, ItemFile, SourceEntry } from './types';
 import { escapeHtml } from './util';
 import { aggregateStats, loadGames } from './storage';
 import { fetchLeaderboard, scoreboardEnabled } from './scoreboard';
@@ -81,14 +81,22 @@ export function renderSources(view: HTMLElement, sources: SourceEntry[]): void {
   const list = (entries: SourceEntry[]): string =>
     entries
       .map((s) => {
-        const title = s.url
-          ? `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.title ?? s.source)}</a>`
-          : escapeHtml(s.title ?? s.source);
         const author = s.author ? ` by ${escapeHtml(s.author)}` : '';
         const lic = s.licenseUrl
           ? `<a href="${escapeHtml(s.licenseUrl)}" target="_blank" rel="noopener">${escapeHtml(s.license)}</a>`
           : escapeHtml(s.license);
         const model = s.model ? ` <span class="dim">${escapeHtml(s.model)}</span>` : '';
+
+        let title: string;
+        if (s.kind === 'ai') {
+          // Link to a passage view that shows the full text with attribution.
+          title = `<a href="#/passage/${encodeURIComponent(s.id)}" class="source-link">${escapeHtml(s.title ?? s.source)}</a>`;
+        } else if (s.url) {
+          title = `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.title ?? s.source)}</a>`;
+        } else {
+          title = escapeHtml(s.title ?? s.source);
+        }
+
         return `<li>${title}${author} — <span class="dim">${escapeHtml(s.source)}${model}, ${lic}</span></li>`;
       })
       .join('');
@@ -102,5 +110,58 @@ export function renderSources(view: HTMLElement, sources: SourceEntry[]): void {
       <ul class="source-list">${list(human)}</ul>
       <h3>AI writing (${ai.length})</h3>
       <ul class="source-list">${list(ai)}</ul>
+    </main>`;
+}
+
+/**
+ * Display a single passage with full attribution, without the game's
+ * human/AI choice buttons. Used from the "Sources" page for AI entries.
+ */
+export async function renderPassage(
+  view: HTMLElement,
+  entry: SourceEntry,
+  getItem: (id: string) => Promise<ItemFile>,
+): Promise<void> {
+  view.innerHTML = `<main class="card"><p class="dim">Loading passage…</p></main>`;
+  let file: ItemFile;
+  try {
+    file = await getItem(entry.id);
+  } catch (err) {
+    view.innerHTML = `<main class="card"><p>Could not load passage: ${escapeHtml((err as Error).message)}</p></main>`;
+    return;
+  }
+  const m = file.meta;
+
+  const paragraphs = (text: string): string =>
+    text
+      .split(/\n{2,}/)
+      .map((p) => p.replace(/[ \t]+/g, ' ').trim())
+      .filter((p) => p.length > 0)
+      .map((p) => `<p>${escapeHtml(p).replace(/\n/g, '<br>')}</p>`)
+      .join('');
+
+  const truth =
+    entry.kind === 'human'
+      ? 'A human wrote this.'
+      : `An AI wrote this${m.model ? ` (${m.model})` : ''}.`;
+
+  const attrParts: string[] = [`<strong>${escapeHtml(m.source)}</strong>`];
+  if (m.title) attrParts.push(escapeHtml(m.title));
+  if (m.author) attrParts.push(`by ${escapeHtml(m.author)}`);
+  const license = m.licenseUrl
+    ? `<a href="${escapeHtml(m.licenseUrl)}" target="_blank" rel="noopener">${escapeHtml(m.license)}</a>`
+    : escapeHtml(m.license);
+  const link = m.url
+    ? `<a href="${escapeHtml(m.url)}" target="_blank" rel="noopener">view original</a>`
+    : '';
+
+  view.innerHTML = `
+    <main class="card reveal">
+      <div class="progress"><a href="#/sources" class="btn-link">← Back to sources</a></div>
+      <article class="passage">${paragraphs(file.text)}</article>
+      <div class="verdict">
+        <p>${escapeHtml(truth)}</p>
+        <p class="attribution">${attrParts.join(' · ')}<br>${license}${link ? ` · ${link}` : ''}</p>
+      </div>
     </main>`;
 }
